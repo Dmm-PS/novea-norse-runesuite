@@ -1,0 +1,18 @@
+{
+  "ids": [ 4559 ],
+  "tables": [
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        { "id": 526, "min": 1, "max": 1, "weight": 1 }, //Bones
+        #Unknown Item: "Zamorak robe (top)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 }, //Zamorak robe (top)
+        #Unknown Item: "Zamorak robe (bottom)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 }, //Zamorak robe (bottom)
+        #WikiNote: Unless you own one already, broken or not.
+        //{ "id": 1409, "min": 1, "max": 1, "weight": 1 } //Iban's staff
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ids": [ 7017 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        { "id": 9140, "min": 3, "max": 12, "weight": 1 }, //Iron bolts
+        { "id": 1203, "min": 1, "max": 1, "weight": 1 }, //Iron dagger
+        #WikiNote: 1/256 chance of dropping either the kiteshield/scimitar, or 1/512 chance of dropping the desired item.
+        //{ "id": 1201, "min": 1, "max": 1, "weight": 1 }, //Rune kiteshield
+        #WikiNote: 1/256 chance of dropping either the kiteshield/scimitar, or 1/512 chance of dropping the desired item.
+        //{ "id": 1333, "min": 1, "max": 1, "weight": 1 } //Rune scimitar
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 2801, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (medium)
+        { "id": 995, "min": 1, "max": 4, "weight": 1 }, //Coins
+        { "id": 5324, "min": 4, "max": 4, "weight": 1 }, //Cabbage seed
+        { "id": 440, "min": 1, "max": 1, "weight": 1 } //Iron ore
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ids": [ 2999 ],
+  "tables": [
+    {
+      "name": "Runes",
+      "weight": 1,
+      "items": [
+        { "id": 559, "min": 7, "max": 7, "weight": 1 }, //Body rune
+        { "id": 555, "min": 6, "max": 6, "weight": 1 }, //Water rune
+        { "id": 563, "min": 2, "max": 2, "weight": 1 } //Law rune
+      ]
+    },
+    {
+      "name": "Seeds",
+      "weight": 1,
+      "items": [
+        { "id": 5104, "min": 1, "max": 1, "weight": 1 }, //Jangerberry seed
+        { "id": 5292, "min": 1, "max": 1, "weight": 1 }, //Marrentill seed
+        { "id": 5294, "min": 1, "max": 1, "weight": 1 }, //Harralander seed
+        { "id": 5293, "min": 1, "max": 1, "weight": 1 }, //Tarromin seed
+        { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+        { "id": 5323, "min": 1, "max": 1, "weight": 1 }, //Strawberry seed
+        { "id": 5321, "min": 1, "max": 1, "weight": 1 } //Watermelon seed
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 2, "max": 2, "weight": 1 }, //Coins
+        { "id": 995, "min": 3, "max": 3, "weight": 1 }, //Coins
+        { "id": 995, "min": 6, "max": 6, "weight": 1 }, //Coins
+        { "id": 225, "min": 1, "max": 1, "weight": 1 }, //Limpwurt root
+        #Unknown Item: "Herb"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 }, //Herb
+        { "id": 1623, "min": 1, "max": 1, "weight": 1 } //Uncut sapphire
+      ]
+    }
+  ]
+}

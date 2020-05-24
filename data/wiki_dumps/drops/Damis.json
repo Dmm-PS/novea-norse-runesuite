@@ -1,0 +1,13 @@
+{
+  "ids": [ 682, 6346, 1134, 683, 6347, 1135 ],
+  "tables": [
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only dropped when fought in the Shadow Dungeon during Desert Treasure.
+        //{ "id": 4673, "min": 1, "max": 1, "weight": 1 } //Shadow diamond
+      ]
+    }
+  ]
+}

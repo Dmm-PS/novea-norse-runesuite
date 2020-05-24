@@ -1,0 +1,46 @@
+{
+  "ids": [ 3131 ],
+  "guaranteed": [
+    { "id": 592, "min": 1, "max": 1 } //Ashes
+  ],
+  "tables": [
+    {
+      "name": "Weapons",
+      "weight": 1,
+      "items": [
+        { "id": 808, "min": 96, "max": 100, "weight": 1 }, //Steel dart
+        { "id": 11824, "min": 1, "max": 1, "weight": 1 } //Zamorakian spear
+      ]
+    },
+    {
+      "name": "Godsword shards",
+      "weight": 1,
+      "items": [
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11822, "min": 1, "max": 1, "weight": 1 } //Godsword shard 3
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 1300, "max": 1500, "weight": 1 }, //Coins
+        { "id": 886, "min": 95, "max": 100, "weight": 1 }, //Steel arrow
+        { "id": 565, "min": 5, "max": 10, "weight": 1 }, //Blood rune
+        { "id": 560, "min": 5, "max": 10, "weight": 1 }, //Death rune
+        { "id": 7060, "min": 2, "max": 2, "weight": 1 }, //Tuna potato
+        { "id": 157, "min": 1, "max": 1, "weight": 1 }, //Super strength(3)
+        { "id": 245, "min": 5, "max": 10, "weight": 1 }, //Wine of zamorak
+        { "id": 385, "min": 2, "max": 2, "weight": 1 }, //Shark
+        #WikiNote: Twitter - 10 May 2015
+        //{ "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+        #Unknown Item: "Champion scroll (lesser demon)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 } //Champion scroll (lesser demon)
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "ids": [ 8615, 8616, 8617, 8618, 8619, 8620, 8621, 8622 ],
+    "guaranteed": [
+      { "id": 22786, "min": 2, "max": 2 }, // Hydra bones
+      { "id": 13307, "min": 200, "max": 450 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 200, "max": 500, "weight": 22 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 16 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 16 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 16 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 16 }, //Super combat potion(4) (noted)
+          { "id": 22804, "min": 20, "max": 50, "weight": 10 }, //Dragon knife
+          { "id": 20849, "min": 20, "max": 50, "weight": 10 }, //Dragon thrownaxe
+          { "id": 22978, "min": 1, "max": 1, "weight": 2 }, //Dragon hunter lance
+          { "id": 22981, "min": 1, "max": 1, "weight": 2 }, //Ferocious gloves
+          { "id": 22975, "min": 1, "max": 1, "weight": 2 } //Brimstone ring
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 5,
+        "items": []
+      }
+    ]
+  }
+]

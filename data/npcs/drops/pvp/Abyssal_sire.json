@@ -1,0 +1,28 @@
+[
+  {
+    "ids": [ 5886, 5887, 5888, 5889, 5890, 5891, 5908 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 }, //Ashes
+      { "id": 13307, "min": 100, "max": 200 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 80, "max": 150, "weight": 4 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 4 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 4 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 4 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 4 }, //Super combat potion(4) (noted)
+          { "id": 13273, "min": 1, "max": 1, "weight": 1 } //Unsired
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 4,
+        "items": []
+      }
+    ]
+  }
+]

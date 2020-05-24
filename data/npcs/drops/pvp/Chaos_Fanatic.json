@@ -1,0 +1,26 @@
+[
+  {
+    "ids": [ 6619 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 13307, "min": 300, "max": 400 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 12746, "min": 1, "max": 1, "weight": 10 }, //Mysterious emblem
+          { "id": 1249, "min": 1, "max": 1, "weight": 25 }, //Dragon spear
+          { "id": 11937, "min": 5, "max": 10, "weight": 25 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 25 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 25 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 10, "max": 25, "weight": 15 }, //Super combat potion(4) (noted)
+          { "id": 12831, "min": 1, "max": 1, "weight": 4 }, //Blessed spirit shield
+          { "id": 12807, "min": 1, "max": 1, "weight": 2 }, //Odium ward
+          { "id": 12806, "min": 1, "max": 1, "weight": 2 } //Malediction ward
+        ]
+      }
+    ]
+  }
+]

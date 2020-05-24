@@ -1,0 +1,87 @@
+{
+  "name": "Blood Money Ranged Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 5051, "option": "ranged" }
+  ],
+  "items": [
+    { "id": 1169, "price": 0 }, //Coif
+    { "id": 1129, "price": 0 }, //Leather body
+    { "id": 1131, "price": 0 }, //Hardleather body
+    { "id": 1133, "price": 0 }, //Studded body
+    { "id": 6326, "price": 0 }, //Snakeskin bandana
+    { "id": 6322, "price": 0 }, //Snakeskin body
+    { "id": 6324, "price": 0 }, //Snakeskin chaps
+    { "id": 6330, "price": 0 }, //Snakeskin vambraces
+    { "id": 6328, "price": 0 }, //Snakeskin boots
+    { "id": 19478, "price": 10000 }, //Light ballista
+    { "id": 1135, "price": 0 }, //Green d'hide body
+    { "id": 2499, "price": 0 }, //Blue d'hide body
+    { "id": 2501, "price": 0 }, //Red d'hide body
+    { "id": 2503, "price": 0 }, //Black d'hide body
+    { "id": 4732, "price": 2000 }, //Karil's coif
+    { "id": 4736, "price": 3000 }, //Karil's leathertop
+    { "id": 4738, "price": 3000 }, //Karil's leatherskirt
+    { "id": 4734, "price": 2000 }, //Karil's crossbow
+    { "id": 4740, "price": 0 }, //Bolt rack
+    { "id": 19481, "price": 15000 }, //Heavy ballista
+    { "id": 1099, "price": 0 }, //Green d'hide chaps
+    { "id": 2493, "price": 0 }, //Blue d'hide chaps
+    { "id": 2495, "price": 0 }, //Red d'hide chaps
+    { "id": 2497, "price": 0 }, //Black d'hide chaps
+    { "id": 11826, "price": 8000 }, //Armadyl helmet
+    { "id": 11828, "price": 10000 }, //Armadyl chestplate
+    { "id": 11830, "price": 10000 }, //Armadyl chainskirt
+    { "id": 11785, "price": 12000 }, //Armadyl crossbow
+    { "id": 9185, "price": 0 }, //Rune crossbow
+    { "id": 10156, "price": 250 }, //Hunters' crossbow
+    { "id": 1065, "price": 0 }, //Green d'hide vamb
+    { "id": 2487, "price": 0 }, //Blue d'hide vamb
+    { "id": 2489, "price": 0 }, //Red d'hide vamb
+    { "id": 2491, "price": 0 }, //Black d'hide vamb
+    { "id": 3749, "price": 0 }, //Archer helm
+    { "id": 853, "price": 0 }, //Maple shortbow
+    { "id": 857, "price": 0 }, //Yew shortbow
+    { "id": 861, "price": 0 }, //Magic shortbow
+    { "id": 11235, "price": 4000 }, //Dark bow
+    { "id": 12924, "price": 20000 }, //Toxic blowpipe (empty)
+    { "id": 809, "price": 0 }, //Mithril dart
+    { "id": 810, "price": 0 }, //Adamant dart
+    { "id": 811, "price": 0 }, //Rune dart
+    { "id": 11230, "price": 10 }, //Dragon dart
+    { "id": 2581, "price": 5000 }, //Robin hood hat
+    { "id": 2577, "price": 2500 }, //Ranger boots
+    { "id": 13237, "price": 10000 }, //Pegasian boots
+    { "id": 12596, "price": 5000 }, //Rangers' tunic
+    { "id": 19994, "price": 2500 }, //Ranger gloves
+    { "id": 11926, "price": 5000 }, //Odium ward
+    { "id": 866, "price": 0 }, //Mithril knife
+    { "id": 867, "price": 0 }, //Adamant knife
+    { "id": 868, "price": 0 }, //Rune knife
+    { "id": 6522, "price": 100 }, //Toktz-xil-ul
+    { "id": 888, "price": 0 }, //Mithril arrow
+    { "id": 890, "price": 0 }, //Adamant arrow
+    { "id": 892, "price": 0 }, //Rune arrow
+    { "id": 21326, "price": 10 }, //Amethyst arrow
+    { "id": 11212, "price": 15 }, //Dragon arrow
+    { "id": 10158, "price": 0 }, //Kebbit bolts
+    { "id": 829, "price": 0 }, //Adamant javelin
+    { "id": 830, "price": 0 }, //Rune javelin
+    { "id": 19484, "price": 50 }, //Dragon javelin
+    { "id": 10034, "price": 0 }, //Red chinchompa
+    { "id": 11959, "price": 0 }, //Black chinchompa
+    { "id": 9241, "price": 0 }, //Emerald bolts (e)
+    { "id": 9242, "price": 0 }, //Ruby bolts (e)
+    { "id": 9243, "price": 0 }, //Diamond bolts (e)
+    { "id": 9244, "price": 0 }, //Dragon bolts (e)
+    { "id": 10159, "price": 0 }, //Long kebbit bolts
+	{ "id": 803, "price": 0 }, //Mithril thrownaxe
+	{ "id": 804, "price": 0 }, //Adamant thrownaxe
+	{ "id": 805, "price": 0 }, //Rune thrownaxe
+	{ "id": 20849, "price": 100 }, //Dragon thrownaxe
+    { "id": 22804, "price": 250 }, //Dragon knife
+    { "id": 22003, "price": 25000 } //Dragonfire ward
+	
+  ]
+}

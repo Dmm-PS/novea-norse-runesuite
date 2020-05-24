@@ -1,0 +1,77 @@
+{
+  "ids": [ 7275 ],
+  "guaranteed": [
+    { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+    { "id": 1747, "min": 2, "max": 2 } //Black dragonhide
+  ],
+  "tables": [
+    {
+      "name": "Weapons",
+      "weight": 1,
+      "items": [
+        #WikiNote: Players who have not completed Barbarian training will receive the spear instead of the hasta.
+        //{ "id": 11377, "min": 1, "max": 1, "weight": 1 }, //Rune hasta
+        #WikiNote: Players who have not completed Barbarian training will receive the spear instead of the hasta.
+        //{ "id": 1247, "min": 1, "max": 1, "weight": 1 }, //Rune spear
+        { "id": 1303, "min": 1, "max": 1, "weight": 1 }, //Rune longsword
+        { "id": 1289, "min": 1, "max": 1, "weight": 1 }, //Rune sword
+        { "id": 1215, "min": 1, "max": 1, "weight": 1 }, //Dragon dagger
+        { "id": 1305, "min": 1, "max": 1, "weight": 1 } //Dragon longsword
+      ]
+    },
+    {
+      "name": "Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1079, "min": 1, "max": 1, "weight": 1 }, //Rune platelegs
+        { "id": 1163, "min": 2, "max": 2, "weight": 1 }, //Rune full helm
+        { "id": 1127, "min": 1, "max": 1, "weight": 1 }, //Rune platebody
+        { "id": 2503, "min": 1, "max": 1, "weight": 1 }, //Black d'hide body
+        { "id": 2491, "min": 1, "max": 1, "weight": 1 }, //Black d'hide vamb
+        { "id": 1149, "min": 1, "max": 1, "weight": 1 } //Dragon med helm
+      ]
+    },
+    {
+      "name": "Runes and Ammunition",
+      "weight": 1,
+      "items": [
+        { "id": 830, "min": 50, "max": 50, "weight": 1 }, //Rune javelin
+        { "id": 811, "min": 20, "max": 20, "weight": 1 }, //Rune dart
+        { "id": 563, "min": 75, "max": 75, "weight": 1 }, //Law rune
+        { "id": 560, "min": 75, "max": 75, "weight": 1 }, //Death rune
+        { "id": 565, "min": 50, "max": 50, "weight": 1 }, //Blood rune
+        { "id": 566, "min": 50, "max": 50, "weight": 1 }, //Soul rune
+        { "id": 892, "min": 75, "max": 75, "weight": 1 }, //Rune arrow
+        { "id": 868, "min": 25, "max": 25, "weight": 1 }, //Rune knife
+        { "id": 805, "min": 30, "max": 30, "weight": 1 } //Rune thrownaxe
+      ]
+    },
+    {
+      "name": "Materials and Consumables",
+      "weight": 1,
+      "items": [
+        { "id": 13441, "min": 2, "max": 2, "weight": 1 }, //Anglerfish
+        { "id": 11993, "min": 5, "max": 5, "weight": 1 }, //Lava scale (noted)
+        { "id": 11237, "min": 40, "max": 40, "weight": 1 }, //Dragon arrowtips
+        { "id": 11232, "min": 40, "max": 40, "weight": 1 }, //Dragon dart tip
+        { "id": 19582, "min": 40, "max": 40, "weight": 1 }, //Dragon javelin heads
+        { "id": 452, "min": 3, "max": 3, "weight": 1 } //Runite ore (noted)
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 370, "max": 2200, "weight": 1 }, //Coins
+        { "id": 13511, "min": 1, "max": 1, "weight": 1 }, //Ensouled dragon head
+        { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+        { "id": 19677, "min": 1, "max": 1, "weight": 1 }, //Ancient shard
+        { "id": 19679, "min": 1, "max": 1, "weight": 1 }, //Dark totem base
+        { "id": 19681, "min": 1, "max": 1, "weight": 1 }, //Dark totem middle
+        { "id": 19683, "min": 1, "max": 1, "weight": 1 }, //Dark totem top
+        { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+        { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+      ]
+    }
+  ]
+}

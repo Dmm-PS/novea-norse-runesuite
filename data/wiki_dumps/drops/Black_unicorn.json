@@ -1,0 +1,20 @@
+{
+  "ids": [ 2849 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 }, //Bones
+    { "id": 237, "min": 1, "max": 1 } //Unicorn horn
+  ],
+  "tables": [
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only during Rag and Bone Man.
+        //{ "id": 7821, "min": 1, "max": 1, "weight": 1 }, //Unicorn bone
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        { "id": 13466, "min": 1, "max": 1, "weight": 1 } //Ensouled unicorn head
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ids": [ 6918, 6919 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Seeds",
+      "weight": 1,
+      "items": [
+        { "id": 5292, "min": 1, "max": 1, "weight": 1 }, //Marrentill seed
+        { "id": 5294, "min": 1, "max": 1, "weight": 1 }, //Harralander seed
+        { "id": 5293, "min": 1, "max": 1, "weight": 1 }, //Tarromin seed
+        { "id": 5100, "min": 1, "max": 1, "weight": 1 }, //Limpwurt seed
+        { "id": 5104, "min": 1, "max": 1, "weight": 1 }, //Jangerberry seed
+        { "id": 5323, "min": 1, "max": 1, "weight": 1 }, //Strawberry seed
+        { "id": 5311, "min": 1, "max": 1, "weight": 1 }, //Wildblood seed
+        { "id": 5106, "min": 1, "max": 1, "weight": 1 }, //Poison ivy seed
+        { "id": 5105, "min": 1, "max": 1, "weight": 1 }, //Whiteberry seed
+        { "id": 5280, "min": 1, "max": 1, "weight": 1 }, //Cactus seed
+        { "id": 5297, "min": 1, "max": 1, "weight": 1 }, //Irit seed
+        { "id": 5282, "min": 1, "max": 1, "weight": 1 }, //Mushroom spore
+        { "id": 5321, "min": 1, "max": 1, "weight": 1 }, //Watermelon seed
+        { "id": 5281, "min": 1, "max": 1, "weight": 1 }, //Belladonna seed
+        { "id": 5299, "min": 1, "max": 1, "weight": 1 }, //Kwuarm seed
+        { "id": 5298, "min": 1, "max": 1, "weight": 1 }, //Avantoe seed
+        { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+        { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+        { "id": 5304, "min": 1, "max": 1, "weight": 1 }, //Torstol seed
+        { "id": 5303, "min": 1, "max": 1, "weight": 1 }, //Dwarf weed seed
+        { "id": 5301, "min": 1, "max": 1, "weight": 1 }, //Cadantine seed
+        { "id": 5302, "min": 1, "max": 1, "weight": 1 } //Lantadyme seed
+      ]
+    },
+    {
+      "name": "Others",
+      "weight": 1,
+      "items": [
+        { "id": 13383, "min": 1, "max": 1, "weight": 1 }, //Xerician fabric
+        { "id": 13391, "min": 1, "max": 1, "weight": 1 }, //Lizardman fang
+        { "id": 13392, "min": 1, "max": 1, "weight": 1 } //Xeric's talisman (inert)
+      ]
+    }
+  ]
+}

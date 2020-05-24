@@ -1,0 +1,106 @@
+{
+  "name": "Blood Money Magic Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 5081, "option": "magic" }
+  ],
+  "items": [
+    { "id": 556, "price": 0 }, //Air rune
+    { "id": 557, "price": 0 }, //Earth rune
+    { "id": 555, "price": 0 }, //Water rune
+    { "id": 554, "price": 0 }, //Fire rune
+    { "id": 562, "price": 0 }, //Chaos rune
+    { "id": 560, "price": 0 }, //Death rune
+    { "id": 565, "price": 0 }, //Blood rune
+    { "id": 561, "price": 0 }, //Nature rune
+    { "id": 563, "price": 0 }, //Law rune
+    { "id": 564, "price": 0 }, //Cosmic rune
+    { "id": 9075, "price": 0 }, //Astral rune
+    { "id": 566, "price": 0 }, //Soul rune
+    { "id": 4699, "price": 0 }, //Lava rune
+    { "id": 4698, "price": 0 }, //Mud rune
+    { "id": 4695, "price": 0 }, //Mist rune
+    { "id": 4694, "price": 0 }, //Steam rune
+    { "id": 4696, "price": 0 }, //Dust rune
+    { "id": 4697, "price": 0 }, //Smoke rune
+	{ "id": 21880, "price": 0 }, // Wrath rune
+    { "id": 20724, "price": 15000 }, //Imbued heart
+    { "id": 1383, "price": 0 }, //Staff of water
+    { "id": 1403, "price": 0 }, //Mystic water staff
+    { "id": 11789, "price": 0 }, //Mystic steam staff
+    { "id": 3054, "price": 0 }, //Mystic lava staff
+    { "id": 11908, "price": 2500 }, //Trident of the seas
+    { "id": 12900, "price": 25000 }, //Trident of the swamp
+    { "id": 11791, "price": 10000 }, //Staff of the dead
+    { "id": 12902, "price": 30000 }, //Toxic staff of the dead
+    { "id": 6914, "price": 2000 }, //Master wand
+    { "id": 6889, "price": 8000 }, //Mage's book
+    { "id": 20733, "price": 500 }, //Mystic mist staff
+    { "id": 20739, "price": 500 }, //Mystic dust staff
+    { "id": 12000, "price": 500 }, //Mystic smoke staff
+    { "id": 6563, "price": 500 }, //Mystic mud staff
+    { "id": 4170, "price": 250 }, //Slayer's staff
+    { "id": 4675, "price": 0 }, //Ancient staff
+    { "id": 21634, "price": 25000 }, //Ancient wyvern shield
+    { "id": 11924, "price": 5000 }, //Malediction ward
+    { "id": 20716, "price": 6000 }, //Tome of fire
+    { "id": 20718, "price": 50 }, //Burnt page
+    { "id": 579, "price": 0 }, //Blue wizard hat
+    { "id": 658, "price": 0 }, //Green hat
+    { "id": 2910, "price": 0 }, //Red hat
+    { "id": 1017, "price": 0 }, //Wizard hat
+    { "id": 2920, "price": 0 }, //Yellow hat
+    { "id": 664, "price": 0 }, //Turquoise hat
+    { "id": 660, "price": 0 }, //Blue hat
+    { "id": 656, "price": 0 }, //Pink hat
+    { "id": 2900, "price": 0 }, //Grey hat
+    { "id": 2930, "price": 0 }, //Teal hat
+    { "id": 577, "price": 0 }, //Blue wizard robe
+    { "id": 13385, "price": 0 }, //Xerician hat
+    { "id": 20595, "price": 1000 }, //Elder chaos hood
+    { "id": 4099, "price": 0 }, //Mystic hat (dark)
+    { "id": 4109, "price": 0 }, //Mystic hat (light)
+    { "id": 4089, "price": 0 }, //Mystic hat
+    { "id": 7400, "price": 0 }, //Enchanted hat
+    { "id": 6918, "price": 2000 }, //Infinity hat
+    { "id": 20128, "price": 2500 }, //Hood of darkness
+    { "id": 4708, "price": 2000 }, //Ahrim's hood
+    { "id": 1011, "price": 0 }, //Blue skirt
+    { "id": 13387, "price": 0 }, //Xerician top
+    { "id": 20517, "price": 1000 }, //Elder chaos top
+    { "id": 4101, "price": 0 }, //Mystic robe top (dark)
+    { "id": 4111, "price": 0 }, //Mystic robe top (light)
+    { "id": 4091, "price": 0 }, //Mystic robe top
+    { "id": 7399, "price": 0 }, //Enchanted top
+    { "id": 6916, "price": 2000 }, //Infinity top
+    { "id": 20131, "price": 2500 }, //Robe top of darkness
+    { "id": 4712, "price": 3000 }, //Ahrim's robetop
+    { "id": 1035, "price": 0 }, //Zamorak robe
+    { "id": 13389, "price": 0 }, //Xerician robe
+    { "id": 20520, "price": 1000 }, //Elder chaos robe
+    { "id": 4103, "price": 0 }, //Mystic robe bottom (dark)
+    { "id": 4113, "price": 0 }, //Mystic robe bottom (light)
+    { "id": 4093, "price": 0 }, //Mystic robe bottom
+    { "id": 7398, "price": 0 }, //Enchanted robe
+    { "id": 6924, "price": 2000 }, //Infinity bottoms
+    { "id": 20137, "price": 2500 }, //Robe bottom of darkness
+    { "id": 4714, "price": 3000 }, //Ahrim's robeskirt
+    { "id": 1033, "price": 0 }, //Zamorak robe
+    { "id": 3387, "price": 0 }, //Splitbark body
+    { "id": 3389, "price": 0 }, //Splitbark legs
+    { "id": 4107, "price": 0 }, //Mystic boots (dark)
+    { "id": 4117, "price": 0 }, //Mystic boots (light)
+    { "id": 4097, "price": 0 }, //Mystic boots
+    { "id": 13235, "price": 10000 }, //Eternal boots
+    { "id": 6920, "price": 2000 }, //Infinity boots
+    { "id": 20140, "price": 2500 }, //Boots of darkness
+    { "id": 4710, "price": 2000 }, //Ahrim's staff
+    { "id": 2579, "price": 0 }, //Wizard boots
+    { "id": 630, "price": 0 }, //Blue boots
+    { "id": 632, "price": 0 }, //Cream boots
+    { "id": 628, "price": 0 }, //Green boots
+    { "id": 626, "price": 0 }, //Pink boots
+    { "id": 634, "price": 0 } //Turquoise boots
+  ]
+}

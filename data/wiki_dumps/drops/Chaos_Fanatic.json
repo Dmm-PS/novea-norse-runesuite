@@ -1,0 +1,76 @@
+{
+  "ids": [ 6619 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        #Unknown Item: "Zamorak robe (top)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 }, //Zamorak robe (top)
+        #Unknown Item: "Zamorak robe (bottom)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 }, //Zamorak robe (bottom)
+        { "id": 1392, "min": 5, "max": 5, "weight": 1 }, //Battlestaff (noted)
+        { "id": 2570, "min": 1, "max": 1, "weight": 1 }, //Ring of life
+        { "id": 3387, "min": 1, "max": 1, "weight": 1 }, //Splitbark body
+        { "id": 3389, "min": 1, "max": 1, "weight": 1 }, //Splitbark legs
+        { "id": 4675, "min": 1, "max": 1, "weight": 1 } //Ancient staff
+      ]
+    },
+    {
+      "name": "Runes",
+      "weight": 1,
+      "items": [
+        { "id": 4697, "min": 30, "max": 30, "weight": 1 }, //Smoke rune
+        { "id": 554, "min": 250, "max": 250, "weight": 1 }, //Fire rune
+        { "id": 562, "min": 175, "max": 175, "weight": 1 }, //Chaos rune
+        { "id": 565, "min": 50, "max": 50, "weight": 1 } //Blood rune
+      ]
+    },
+    {
+      "name": "Herbs",
+      "weight": 1,
+      "items": [
+        { "id": 2486, "min": 4, "max": 4, "weight": 1 } //Grimy lantadyme (noted)
+      ]
+    },
+    {
+      "name": "Food/Potions",
+      "weight": 1,
+      "items": [
+        { "id": 2298, "min": 8, "max": 8, "weight": 1 }, //Anchovy pizza (noted)
+        { "id": 7946, "min": 3, "max": 3, "weight": 1 }, //Monkfish
+        { "id": 385, "min": 1, "max": 1, "weight": 1 }, //Shark
+        { "id": 2434, "min": 1, "max": 1, "weight": 1 } //Prayer potion(4)
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 600, "max": 4000, "weight": 1 }, //Coins
+        #WikiNote: Only dropped while on World 318 (unless on a slayer assignment given by Krystilia); tertiary drop
+        //{ "id": 12746, "min": 1, "max": 1, "weight": 1 }, //Mysterious emblem
+        { "id": 1624, "min": 4, "max": 4, "weight": 1 }, //Uncut sapphire (noted)
+        { "id": 1622, "min": 6, "max": 6, "weight": 1 }, //Uncut emerald (noted)
+        { "id": 1452, "min": 1, "max": 1, "weight": 1 }, //Chaos talisman
+        { "id": 1462, "min": 1, "max": 1, "weight": 1 }, //Nature talisman
+        { "id": 7937, "min": 250, "max": 250, "weight": 1 }, //Pure essence (noted)
+        { "id": 246, "min": 10, "max": 10, "weight": 1 }, //Wine of zamorak (noted)
+        { "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        { "id": 993, "min": 1, "max": 1, "weight": 1 }, //Sinister key
+        #WikiNote: Only dropped while on a slayer assignment given by Krystilia.
+        //{ "id": 21257, "min": 1, "max": 1, "weight": 1 }, //Slayer's enchantment
+        #WikiNote: 1/64 if a Ring of wealth (i) is worn.
+        //{ "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+        #WikiNote: The drop rate is 1/256 for a specific shard, or 1/128 for any shard.
+        //{ "id": 11928, "min": 1, "max": 1, "weight": 1 }, //Odium shard 1
+        #WikiNote: The drop rate is 1/256 for a specific shard, or 1/128 for any shard.
+        //{ "id": 11931, "min": 1, "max": 1, "weight": 1 }, //Malediction shard 1
+        { "id": 11995, "min": 1, "max": 1, "weight": 1 } //Pet chaos elemental
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "ids": [ 7931, 7881 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1, "weight": 1 }, //Bones
+      { "id": 21820, "min": 2, "max": 10, "weight": 1 }, //Ether
+      { "id": 13307, "min": 10, "max": 25 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 11937, "min": 5, "max": 10, "weight": 30 }, //Dark crab
+          { "id": 13442, "min": 20, "max": 50, "weight": 30 }, //Angler fish
+          { "id": 10926, "min": 2, "max": 10, "weight": 30 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 30 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 10, "max": 25, "weight": 30 }, //Super combat potion(4) (noted)
+          { "id": 21817, "min": 1, "max": 1, "weight": 13 }, //Bracelet of ethereum
+          { "id": 21807, "min": 1, "max": 1, "weight": 5 }, //Ancient emblem
+          { "id": 21810, "min": 1, "max": 1, "weight": 4 }, //Ancient totem
+          { "id": 21813, "min": 1, "max": 1, "weight": 2 }, //Ancient statuette
+          { "id": 19484, "min": 1, "max": 50, "weight": 20 }, //Dragon javelin
+          { "id": 21326, "min": 1, "max": 50, "weight": 30 }, //Amethyst arrow
+          { "id": 20724, "min": 1, "max": 1, "weight": 2 }, //Imbued heart
+          { "id": 22634, "min": 1, "max": 4, "weight": 4 }, //Morrigan's throwing axe
+          { "id": 22636, "min": 1, "max": 8, "weight": 4 }, //Morrigan's javelin
+          { "id": 22545, "min": 1, "max": 1, "weight": 1 }, //Viggora's chainmace
+          { "id": 22550, "min": 1, "max": 1, "weight": 1 }, //Craw's bow
+          { "id": 22555, "min": 1, "max": 1, "weight": 1 }, //Thammaron's sceptre
+          { "id": 22638, "min": 1, "max": 1, "weight": 1 }, //Morrigan's coif
+          { "id": 22641, "min": 1, "max": 1, "weight": 1 }, //Morrigan's leather body
+          { "id": 22644, "min": 1, "max": 1, "weight": 1 }, //Morrigan's leather chaps
+          { "id": 22650, "min": 1, "max": 1, "weight": 1 }, //Zuriel's hood
+          { "id": 22653, "min": 1, "max": 1, "weight": 1 }, //Zuriel's robe top
+          { "id": 22656, "min": 1, "max": 1, "weight": 1 } //Zuriel's robe bottom
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 2,
+        "items": []
+      }
+    ]
+  }
+]

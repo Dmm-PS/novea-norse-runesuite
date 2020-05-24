@@ -1,0 +1,33 @@
+[
+  {
+    "ids": [ 415, 416, 7241 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 5, "max": 25, "weight": 580 }, //Blood money
+          { "id": 4151, "min": 1, "max": 1, "weight": 20 }, //Abyssal whip
+          { "id": 13265, "min": 1, "max": 1, "weight": 5 } //Abyssal dagger
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 13442, "min": 1, "max": 5, "weight": 35 }, //Angerfish (noted)
+          { "id": 7937, "min": 60, "max": 60, "weight": 35 }, //Pure essence (noted)
+          { "id": 12696, "min": 1, "max": 10, "weight": 35 }, //Super combat potion(4) (noted)
+          { "id": 1452, "min": 1, "max": 1, "weight": 35 }, //Chaos talisman
+          { "id": 12626, "min": 1, "max": 15, "weight": 35 }, //Stamina potion(4) (noted)
+          { "id": 11937, "min": 1, "max": 10, "weight": 35 }, //Dark crab (noted)
+          { "id": 13508, "min": 1, "max": 1, "weight": 1 }, //Ensouled abyssal head
+          { "id": 7979, "min": 1, "max": 1, "weight": 1 } //Abyssal head
+        ]
+      }
+    ]
+  }
+]

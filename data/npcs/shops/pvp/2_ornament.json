@@ -1,0 +1,39 @@
+{
+  "name": "Blood Money Ornaments",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 6650, "option": "ornament" }
+  ],
+  "items": [
+    { "id": 12538, "price": 2500 }, //Dragon full helm ornament kit
+    { "id": 12534, "price": 2500 }, //Dragon chainbody ornament kit
+    { "id": 12536, "price": 2500 }, //Dragon legs/skirt ornament kit
+    { "id": 12532, "price": 5000 }, //Dragon sq shield ornament kit
+    { "id": 20002, "price": 5000 }, //Dragon scimitar ornament kit
+    { "id": 20143, "price": 5000 }, //Dragon defender ornament kit
+    { "id": 22231, "price": 5000 }, //Dragon boots ornament kit
+    { "id": 20068, "price": 10000 }, //Armadyl godsword ornament kit
+    { "id": 20071, "price": 5000 }, //Bandos godsword ornament kit
+    { "id": 20077, "price": 5000 }, //Zamorak godsword ornament kit
+    { "id": 20074, "price": 5000 }, //Saradomin godsword ornament kit
+    { "id": 12528, "price": 1000 }, //Dark infinity colour kit
+    { "id": 12530, "price": 1000 }, //Light infinity colour kit
+    { "id": 12526, "price": 5000 }, //Fury ornament kit
+    { "id": 20062, "price": 10000 }, //Torture ornament kit
+    { "id": 22246, "price": 10000 }, //Anguish ornament kit
+    { "id": 20065, "price": 5000 }, //Occult ornament kit
+    { "id": 12798, "price": 5000 }, //Steam staff upgrade kit
+    { "id": 21202, "price": 5000 }, //Lava staff upgrade kit
+    { "id": 12802, "price": 5000 }, //Ward upgrade kit
+    { "id": 12849, "price": 2500 }, //Granite clamp
+    { "id": 12804, "price": 5000 }, //Saradomin's tear
+    { "id": 13256, "price": 7000 }, //Saradomin's Light
+    { "id": 12759, "price": 1000 }, //Green dark bow paint
+    { "id": 12761, "price": 1000 }, //Yellow dark bow paint
+    { "id": 12763, "price": 1000 }, //White dark bow paint
+    { "id": 12757, "price": 1000 }, //Blue dark bow paint
+    { "id": 12771, "price": 500 }, //Volcanic whip mix
+    { "id": 12769, "price": 500 } //Frozen whip mix
+  ]
+}

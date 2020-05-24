@@ -1,0 +1,33 @@
+{
+  "ids": [ 4813 ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1115, "min": 1, "max": 1, "weight": 1 } //Iron platebody
+      ]
+    },
+    {
+      "name": "Runes",
+      "weight": 1,
+      "items": [
+        { "id": 556, "min": 1, "max": 5, "weight": 1 }, //Air rune
+        { "id": 555, "min": 1, "max": 6, "weight": 1 } //Water rune
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 1, "max": 30, "weight": 1 }, //Coins
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        #WikiNote: Only dropped by those located in the Wilderness God Wars Dungeon. Drop rate decreases to 1/70 if one key is owned, and 1/80 if two are owned. If the medium or hard Wilderness Diary is completed the drop rate of 1/60 still applies until a player owns two or three keys, respectively.
+        //{ "id": 11942, "min": 1, "max": 1, "weight": 1 }, //Ecumenical key
+        #WikiNote: Twice as common if a Ring of wealth (i) is worn and fought in the Wilderness.
+        //{ "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+      ]
+    }
+  ]
+}

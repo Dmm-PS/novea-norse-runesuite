@@ -1,0 +1,14 @@
+{
+  "ids": [ 2456 ],
+  "tables": [
+    {
+      "name": "Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1163, "min": 1, "max": 1, "weight": 1 }, //Rune full helm
+        { "id": 1127, "min": 1, "max": 1, "weight": 1 }, //Rune platebody
+        { "id": 1079, "min": 1, "max": 1, "weight": 1 } //Rune platelegs
+      ]
+    }
+  ]
+}

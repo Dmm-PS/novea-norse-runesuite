@@ -1,0 +1,14 @@
+{
+  "ids": [ 6614 ],
+  "tables": [
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only dropped if access to Champions' Guild is available, and the Skeleton Champion hasn't been previously killed in the Champions' Challenge.
+        #Unknown Item: "Champion scroll (skeleton)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 } //Champion scroll (skeleton)
+      ]
+    }
+  ]
+}

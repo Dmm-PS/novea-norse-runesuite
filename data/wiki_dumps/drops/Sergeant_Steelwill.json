@@ -1,0 +1,59 @@
+{
+  "ids": [ 2217 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Armour/Weapons",
+      "weight": 1,
+      "items": [
+        { "id": 808, "min": 95, "max": 100, "weight": 1 }, //Steel dart
+        #WikiNote: The drop rate is 1/5,400 for any armour piece, or 1/16,200 for a specific piece.
+        //{ "id": 11832, "min": 1, "max": 1, "weight": 1 }, //Bandos chestplate
+        #WikiNote: The drop rate is 1/5,400 for any armour piece, or 1/16,200 for a specific piece.
+        //{ "id": 11834, "min": 1, "max": 1, "weight": 1 }, //Bandos tassets
+        #WikiNote: The drop rate is 1/5,400 for any armour piece, or 1/16,200 for a specific piece.
+        //{ "id": 11836, "min": 1, "max": 1, "weight": 1 } //Bandos boots
+      ]
+    },
+    {
+      "name": "Godsword shards",
+      "weight": 1,
+      "items": [
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11822, "min": 1, "max": 1, "weight": 1 } //Godsword shard 3
+      ]
+    },
+    {
+      "name": "Runes/Arrows",
+      "weight": 1,
+      "items": [
+        { "id": 564, "min": 25, "max": 30, "weight": 1 }, //Cosmic rune
+        { "id": 886, "min": 95, "max": 100, "weight": 1 } //Steel arrow
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 1300, "max": 1500, "weight": 1 }, //Coins
+        { "id": 226, "min": 5, "max": 5, "weight": 1 }, //Limpwurt root (noted)
+        { "id": 1917, "min": 1, "max": 1, "weight": 1 }, //Beer
+        { "id": 1971, "min": 1, "max": 1, "weight": 1 }, //Kebab
+        { "id": 385, "min": 2, "max": 2, "weight": 1 }, //Shark
+        { "id": 9741, "min": 1, "max": 1, "weight": 1 }, //Combat potion(3)
+        { "id": 1025, "min": 1, "max": 1, "weight": 1 }, //Right eye patch
+        { "id": 7054, "min": 3, "max": 3, "weight": 1 }, //Chilli potato
+        #WikiNote: Twitter - 10 May 2015
+        //{ "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+        #Unknown Item: "Champion scroll (goblin)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 } //Champion scroll (goblin)
+      ]
+    }
+  ]
+}

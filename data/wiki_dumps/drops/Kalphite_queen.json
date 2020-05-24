@@ -1,0 +1,84 @@
+{
+  "ids": [ 963, 965, 4303, 4304, 6500, 6501 ],
+  "tables": [
+    {
+      "name": "Equipment",
+      "weight": 1,
+      "items": [
+        { "id": 1113, "min": 1, "max": 1, "weight": 1 }, //Rune chainbody
+        { "id": 3053, "min": 1, "max": 1, "weight": 1 }, //Lava battlestaff
+        { "id": 2501, "min": 1, "max": 1, "weight": 1 }, //Red d'hide body
+        { "id": 5667, "min": 25, "max": 25, "weight": 1 }, //Rune knife(p++)
+        { "id": 1392, "min": 10, "max": 10, "weight": 1 }, //Battlestaff (noted)
+        { "id": 3140, "min": 1, "max": 1, "weight": 1 }, //Dragon chainbody
+        { "id": 7158, "min": 1, "max": 1, "weight": 1 } //Dragon 2h sword
+      ]
+    },
+    {
+      "name": "Consumables",
+      "weight": 1,
+      "items": [
+        { "id": 7946, "min": 3, "max": 3, "weight": 1 }, //Monkfish
+        { "id": 385, "min": 2, "max": 2, "weight": 1 }, //Shark
+        { "id": 12699, "min": 1, "max": 1, "weight": 1 }, //Super combat potion(2)
+        { "id": 169, "min": 1, "max": 1, "weight": 1 }, //Ranging potion(3)
+        { "id": 183, "min": 1, "max": 1, "weight": 1 }, //Superantipoison(2)
+        { "id": 11936, "min": 2, "max": 2, "weight": 1 }, //Dark crab
+        { "id": 6685, "min": 1, "max": 1, "weight": 1 }, //Saradomin brew(4)
+        { "id": 3024, "min": 1, "max": 1, "weight": 1 }, //Super restore(4)
+        { "id": 2434, "min": 2, "max": 2, "weight": 1 } //Prayer potion(4)
+      ]
+    },
+    {
+      "name": "Seeds",
+      "weight": 1,
+      "items": [
+        { "id": 5321, "min": 25, "max": 25, "weight": 1 }, //Watermelon seed
+        { "id": 5304, "min": 2, "max": 2, "weight": 1 }, //Torstol seed
+        { "id": 5316, "min": 2, "max": 2, "weight": 1 }, //Magic seed
+        { "id": 5288, "min": 2, "max": 2, "weight": 1 }, //Papaya tree seed
+        { "id": 5289, "min": 2, "max": 2, "weight": 1 } //Palm tree seed
+      ]
+    },
+    {
+      "name": "Runes/Ammunition",
+      "weight": 1,
+      "items": [
+        { "id": 565, "min": 100, "max": 100, "weight": 1 }, //Blood rune
+        { "id": 888, "min": 500, "max": 500, "weight": 1 }, //Mithril arrow
+        { "id": 892, "min": 250, "max": 250, "weight": 1 }, //Rune arrow
+        { "id": 560, "min": 150, "max": 150, "weight": 1 } //Death rune
+      ]
+    },
+    {
+      "name": "Gems",
+      "weight": 1,
+      "items": [
+        { "id": 1620, "min": 25, "max": 25, "weight": 1 }, //Uncut ruby (noted)
+        { "id": 1622, "min": 25, "max": 25, "weight": 1 }, //Uncut emerald (noted)
+        { "id": 1618, "min": 25, "max": 25, "weight": 1 } //Uncut diamond (noted)
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 3139, "min": 100, "max": 100, "weight": 1 }, //Potato cactus (noted)
+        { "id": 246, "min": 60, "max": 60, "weight": 1 }, //Wine of zamorak (noted)
+        { "id": 995, "min": 15000, "max": 20000, "weight": 1 }, //Coins
+        { "id": 13490, "min": 1, "max": 1, "weight": 1 }, //Ensouled kalphite head
+        { "id": 2364, "min": 3, "max": 3, "weight": 1 }, //Runite bar (noted)
+        { "id": 1514, "min": 60, "max": 60, "weight": 1 }, //Magic logs (noted)
+        { "id": 1988, "min": 100, "max": 100, "weight": 1 }, //Grapes (noted)
+        { "id": 1784, "min": 100, "max": 100, "weight": 1 }, //Bucket of sand (noted)
+        { "id": 6017, "min": 10, "max": 10, "weight": 1 }, //Cactus spine (noted)
+        { "id": 445, "min": 250, "max": 250, "weight": 1 }, //Gold ore (noted)
+        { "id": 5941, "min": 5, "max": 5, "weight": 1 }, //Weapon poison(++) (noted)
+        { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+        { "id": 7981, "min": 1, "max": 1, "weight": 1 }, //Kq head
+        { "id": 12885, "min": 1, "max": 1, "weight": 1 }, //Jar of sand
+        { "id": 12647, "min": 1, "max": 1, "weight": 1 } //Kalphite princess
+      ]
+    }
+  ]
+}

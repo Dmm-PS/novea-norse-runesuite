@@ -1,0 +1,28 @@
+[
+  {
+    "ids": [ 5779, 6499 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 }, //Big bones
+      { "id": 7416, "min": 1, "max": 1 }, //Mole claw
+      { "id": 7418, "min": 1, "max": 3 } //Mole skin
+    ],
+     "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 100, "max": 250, "weight": 6 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 6 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 6 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 6 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 6 } //Super combat potion(4) (noted)
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 5,
+        "items": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,140 @@
+{
+    "General": [
+    {
+      "name": "Cities",
+      "teleports": [
+        { "name": "Al Kharid", "x": 3299, "y": 3197, "z": 0 },
+        { "name": "Ardougne", "x": 2662, "y": 3307, "z": 0 },
+        { "name": "Ape Atoll", "x": 2805, "y": 2794, "z": 0 },
+        { "name": "Barbarian Village", "x": 3085, "y": 3421, "z": 0 },
+        { "name": "Burthope", "x": 2899, "y": 3544, "z": 0 },
+        { "name": "Canifis", "x": 3495, "y": 3490, "z": 0 },
+        { "name": "Catherby", "x": 2804, "y": 3435, "z": 0 },
+        { "name": "Crash Island", "x": 2894, "y": 2728, "z": 0 },
+        { "name": "Draynor Village", "x": 3103, "y": 3249, "z": 0 },
+        { "name": "Falador", "x": 2965, "y": 3379, "z": 0 },
+        { "name": "Lumbridge", "x": 3225, "y": 3219, "z": 0 },
+        { "name": "Lunar Isle", "x": 2152, "y": 3856, "z": 0 },
+        { "name": "Port Sarim", "x": 3027, "y": 3241, "z": 0 },
+        { "name": "Rellekka", "x": 2631, "y": 3676, "z": 0 },
+        { "name": "Taverly", "x": 2898, "y": 3454, "z": 0 },
+        { "name": "TzHaar", "x": 2441, "y": 5170, "z": 0 },
+        { "name": "Varrock", "x": 3214, "y": 3424, "z": 0 },
+        { "name": "Yanille", "x": 2605, "y": 3094, "z": 0 }
+      ]
+    }
+  ],
+  "Wilderness": [
+    {
+      "name": "General",
+      "teleports": [
+        { "name": "Magebank", "x": 2539, "y": 4716, "z": 0 },
+        { "name": "Chaos Temple|<col=FF0000>Level 15|<img=43> <img=46>", "x": 3236, "y": 3638, "z": 0 },   
+        { "name": "East Dragons|<col=FF0000>Level 19|<img=46>", "x": 3364, "y": 3666, "z": 0 },
+        { "name": "West Dragons|<col=FF0000>Level 10|<img=46>", "x": 2983, "y": 3598, "z": 0 },
+        { "name": "Demonic Ruins|<col=FF0000>Level 46|<img=43> <img=46>", "x": 3287, "y": 3886, "z": 0 },
+        { "name": "Graveyard|<col=FF0000>Level 20|<img=46>", "x": 3160, "y": 3676, "z": 0 },
+        { "name": "Revenant Cave|<col=FF0000>Level 17|<img=43> <img=46>", "x": 3069, "y": 3651, "z": 0 },
+        { "name": "Revenant Cave|<col=FF0000>Level 40|<img=43> <img=46>", "x": 3129, "y": 3833, "z": 0 }
+      ]
+    },
+    {
+      "name": "Obelisks",
+      "teleports": [
+        { "name": "Obelisk|<col=FF0000>Level 13|<img=43> <img=46>", "x": 3144, "y": 3622, "z": 0 },
+        { "name": "Obelisk|<col=FF0000>Level 19|<img=43> <img=46>", "x": 3211, "y": 3664, "z": 0 },   
+        { "name": "Obelisk|<col=FF0000>Level 35|<img=46>", "x": 3097, "y": 3799, "z": 0 },
+        { "name": "Obelisk|<col=FF0000>Level 44|<img=46>", "x": 2979, "y": 3871, "z": 0 },   
+        { "name": "Obelisk|<col=FF0000>Level 50|<img=46>", "x": 3307, "y": 3916, "z": 0 }
+      ]
+    }
+  ],
+  "PvP": [
+    {
+      "name": "Instances",
+      "teleports": [
+        { "name": "Camelot", "x": 2758, "y": 3479, "z": 0 },
+        { "name": "Edgeville", "x": 3096, "y": 3497, "z": 0 },   
+        { "name": "Falador|<img=43>", "x": 2945, "y": 3370, "z": 0 },
+        { "name": "Lumbridge", "x": 3223, "y": 3219, "z": 0 }
+      ]
+    }
+  ],
+  "Monsters": [
+    {
+      "name": "Free",
+      "teleports": [
+        { "name": "Abyssal Demons", "x": 3416, "y": 3566, "z": 2 },
+        { "name": "Abyssal Sire|<img=43>", "x": 3038, "y": 4771, "z": 0 },
+        { "name": "Alchemical Hydra", "x": 1352, "y": 10248, "z": 0 },
+        { "name": "Cave Kraken", "x": 2286, "y": 10013, "z": 0 },
+        { "name": "Cerberus", "x": 1315, "y": 1251, "z": 0 },
+        { "name": "Corporeal Beast|<img=43>", "x": 2967, "y": 4383, "z": 2},
+        { "name": "Dagannoth's Lair|<img=43>", "x": 1913, "y": 4367, "z": 0 },
+        { "name": "Godwars Dungeon|<img=43>", "x": 2882, "y": 5311, "z": 2 },
+        { "name": "Kalphite Queen|<img=43>", "x": 3504, "y": 9494, "z": 0 },
+        { "name": "Lizardman Shaman|<img=43>", "x": 1453, "y": 3695, "z": 0 },
+        { "name": "Thermonuclear Smoke Devil|<img=43>", "x": 2376, "y": 9452, "z": 0 },
+        { "name": "Vorkath", "x": 2272, "y": 4051, "z": 0 },
+        { "name": "Zulrah", "x": 2201, "y": 3057, "z": 0 }
+      ]
+    },
+    {
+      "name": "Paid",
+      "teleports": [
+        { "name": "Armadyl|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2839, "y": 5292, "z": 2, "price": 100},
+        { "name": "Bandos|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2858, "y": 5354, "z": 2, "price": 100},
+        { "name": "Callisto|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3295, "y": 3841, "z": 0, "price": 100},
+        { "name": "Chaos Elemental|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3242, "y": 3915, "z": 0, "price": 100},
+        { "name": "Chaos Fanatic|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2984, "y": 3831, "z": 0, "price": 100},
+        { "name": "Demonic Gorillas|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3108, "y": 3676, "z": 0, "price": 100}, 
+        { "name": "Lava Dragons|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3202, "y": 3859, "z": 0, "price": 100},
+        { "name": "Saradomin|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2910, "y": 5265, "z": 0, "price": 100},
+        { "name": "Scorpia|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3236, "y": 3946, "z": 0, "price": 100},
+        { "name": "Venenatis|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3345, "y": 3728, "z": 0, "price": 100},
+        { "name": "Zamorak|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2925, "y": 5336, "z": 2, "price": 100}
+      ]
+    }
+  ],
+  "Minigames": [
+    {
+      "name": "General",
+      "teleports": [
+        { "name": "Barrows", "x": 3565, "y": 3313, "z": 0 },
+        { "name": "Duel Arena", "x": 3366, "y": 3267, "z": 0 },
+        { "name": "Fight Caves", "x": 2443, "y": 5171, "z": 0 },
+        { "name": "Inferno", "x": 2495, "y": 5110, "z": 0 },
+        { "name": "Warriors' Guild", "x": 2842, "y": 3540, "z": 2 }
+      ]
+    }
+  ],
+   "Skilling": [
+    {
+      "name": "Slayer",
+      "teleports": [
+      { "name": "Ancient Cavern", "x": 1762, "y": 5361, "z": 0 },
+        { "name": "Asganian Ice Dungeon", "x": 3006, "y": 9550, "z": 0 },
+        { "name": "Bandit Camp", "x": 3170, "y": 2982, "z": 0 },
+        { "name": "Brimhaven Dungeon", "x": 2710, "y": 9564, "z": 0 }, 
+        { "name": "Brine Rat Cavern", "x": 2696, "y": 10121, "z": 0 }, 
+        { "name": "Catacombs of Kourend", "x": 1665, "y": 10049, "z": 0 },
+        { "name": "Chasm of Fire", "x": 1435, "y": 3671, "z": 0 }, 
+        { "name": "Fremennik Slayer Dungeon", "x": 2805, "y": 10001, "z": 0 },
+        { "name": "Godwars Dungeon", "x": 2916, "y": 3746, "z": 0 },
+        { "name": "Kalphite Lair", "x": 3226, "y": 3108, "z": 0 },
+        { "name": "Kraken Cove", "x": 2278, "y": 3609, "z": 0 },
+        { "name": "Lithkren Vault", "x": 1568, "y": 5075, "z": 0 },
+        { "name": "Mourner Tunnels", "x": 2029, "y": 4636, "z": 0 },
+        { "name": "Mos Le'Harmless Caves", "x": 3823, "y": 9425, "z": 0 },
+        { "name": "Slayer Tower", "x": 3428, "y": 3534, "z": 0 },
+        { "name": "Smoke Dungeon", "x": 3203, "y": 9379, "z": 0 },
+        { "name": "Smoke Devil Dungeon", "x": 2412, "y": 3060, "z": 0 },
+        { "name": "Stronghold Slayer Cave", "x": 2431, "y": 3424, "z": 0 },
+        { "name": "Taverley Dungeon", "x": 2884, "y": 9799, "z": 0 },
+        { "name": "Trollheim trollpit", "x": 2884, "y": 3588, "z": 0 },
+        { "name": "Waterbirth Dungeon", "x": 2443, "y": 10146, "z": 0 },
+        { "name": "Waterfall Dungeon", "x": 2573, "y": 9866, "z": 0 }
+      ]
+    }
+  ]
+}

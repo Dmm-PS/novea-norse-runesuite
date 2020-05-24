@@ -1,0 +1,43 @@
+{
+  "ids": [ 3159, 2210, 2243, 3166 ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1059, "min": 1, "max": 1, "weight": 1 }, //Leather gloves
+        { "id": 1279, "min": 1, "max": 1, "weight": 1 }, //Iron sword
+        { "id": 1323, "min": 1, "max": 1, "weight": 1 }, //Iron scimitar
+        { "id": 1071, "min": 1, "max": 1, "weight": 1 }, //Mithril platelegs
+        { "id": 1295, "min": 1, "max": 1, "weight": 1 }, //Steel longsword
+        { "id": 1105, "min": 1, "max": 1, "weight": 1 }, //Steel chainbody
+        { "id": 1161, "min": 1, "max": 1, "weight": 1 }, //Adamant full helm
+        { "id": 1281, "min": 1, "max": 1, "weight": 1 }, //Steel sword
+        { "id": 1195, "min": 1, "max": 1, "weight": 1 }, //Black kiteshield
+        { "id": 1341, "min": 1, "max": 1, "weight": 1 }, //Black warhammer
+        { "id": 1428, "min": 1, "max": 1, "weight": 1 }, //Mithril mace
+        { "id": 1217, "min": 1, "max": 1, "weight": 1 }, //Black dagger
+        { "id": 1257, "min": 1, "max": 1, "weight": 1 }, //Mithril spear(p)
+        { "id": 1371, "min": 1, "max": 1, "weight": 1 }, //Adamant battleaxe
+        { "id": 1355, "min": 1, "max": 1, "weight": 1 }, //Mithril axe
+        { "id": 1081, "min": 1, "max": 1, "weight": 1 }, //Iron plateskirt
+        { "id": 1317, "min": 1, "max": 1, "weight": 1 }, //Adamant 2h sword
+        { "id": 1303, "min": 1, "max": 1, "weight": 1 }, //Rune longsword
+        { "id": 1201, "min": 1, "max": 1, "weight": 1 }, //Rune kiteshield
+        { "id": 3202, "min": 1, "max": 1, "weight": 1 } //Rune halberd
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        #WikiNote: Only dropped by those located in the Wilderness God Wars Dungeon. Drop rate decreases to 1/70 if one key is owned, and 1/80 if two are owned. If the medium or hard Wilderness Diary is completed the drop rate of 1/60 still applies until a player owns two or three keys, respectively.
+        //{ "id": 11942, "min": 1, "max": 1, "weight": 1 }, //Ecumenical key
+        #WikiNote: 1/64 if a Ring of wealth (i) is worn and fought in the Wilderness.
+        //{ "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+      ]
+    }
+  ]
+}

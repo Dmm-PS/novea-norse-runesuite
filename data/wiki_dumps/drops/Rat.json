@@ -1,0 +1,19 @@
+{
+  "ids": [ 2492, 2513, 2854, 2855 ],
+  "tables": [
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only in Stronghold of Security.
+        //{ "id": 526, "min": 1, "max": 1, "weight": 1 }, //Bones
+        #WikiNote: Only during Rag and Bone Man II.
+        //{ "id": 7836, "min": 1, "max": 1, "weight": 1 }, //Rat bone
+        #WikiNote: Only during Witch's Potion.
+        //{ "id": 300, "min": 1, "max": 1, "weight": 1 }, //Rat's tail
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 } //Looting bag
+      ]
+    }
+  ]
+}

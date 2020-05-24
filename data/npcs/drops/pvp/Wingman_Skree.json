@@ -1,0 +1,32 @@
+[
+  {
+    "ids": [ 3163 ],
+    "guaranteed": [
+      { "id": 13307, "min": 25, "max": 50 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 20, "max": 50, "weight": 6 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 6 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 6 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 6 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 6 }, //Super combat potion(4) (noted)
+          { "id": 11818, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 3
+          { "id": 11826, "min": 1, "max": 1, "weight": 1 }, //Armadyl helmet
+          { "id": 11828, "min": 1, "max": 1, "weight": 1 }, //Armadyl chestplate
+          { "id": 11830, "min": 1, "max": 1, "weight": 1 } //Armadyl chainskirt
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "items": []
+      }
+    ]
+  }
+]

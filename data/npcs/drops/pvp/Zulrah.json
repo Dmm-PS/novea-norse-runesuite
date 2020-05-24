@@ -1,0 +1,35 @@
+[
+  {
+    "ids": [ 2042, 2043, 2044 ],
+    "guaranteed": [
+      { "id": 12934, "min": 80, "max": 150 }, //Zulrah's scales
+      { "id": 13307, "min": 50, "max": 150 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 12938, "min": 4, "max": 4, "weight": 10 }, //Zul-andra teleport
+          { "id": 13307, "min": 20, "max": 50, "weight": 10 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 10 }, //Dark crab
+          { "id": 11230, "min": 10, "max": 25, "weight": 10 }, //Dragon dart
+          { "id": 5953, "min": 2, "max": 10, "weight": 10 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 10 }, //Super combat potion(4) (noted)
+          { "id": 12929, "min": 1, "max": 1, "weight": 1 }, //Serpentine helm (uncharged)
+          { "id": 12932, "min": 1, "max": 1, "weight": 1 }, //Magic fang
+          { "id": 12924, "min": 1, "max": 1, "weight": 1 }, //Bluepipe(empty)
+          { "id": 12936, "min": 1, "max": 1, "weight": 1 }, //Jar of swamp
+          { "id": 6585, "min": 1, "max": 1, "weight": 2 }, //Amulet of fury
+          { "id": 13200, "min": 1, "max": 1, "weight": 2 }, //Tanzanite mutagen
+          { "id": 13201, "min": 1, "max": 1, "weight": 2 } //Magma mutagen
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 2,
+        "items": []
+      }
+    ]
+  }
+]

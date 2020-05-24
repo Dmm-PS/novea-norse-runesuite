@@ -1,0 +1,19 @@
+{
+  "ids": [ 2856, 2857, 2858, 2859, 2860, 2861, 3313, 3314, 3315, 2862, 2863, 2864, 2510, 2511, 2512 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 }, //Bones
+    { "id": 2134, "min": 1, "max": 1 } //Raw rat meat
+  ],
+  "tables": [
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only during Rag and Bone Man.
+        //{ "id": 7824, "min": 1, "max": 1, "weight": 1 }, //Giant rat bone
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 } //Looting bag
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "ids": [ 1610, 1611, 1612 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 13307, "min": 10, "max": 25 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 6916, "min": 1, "max": 1, "weight": 25 }, //Infinity top
+          { "id": 6918, "min": 1, "max": 1, "weight": 25 }, //Infinity hat
+          { "id": 6920, "min": 1, "max": 1, "weight": 10 }, //Infinity boots
+          { "id": 6922, "min": 1, "max": 1, "weight": 25 }, //Infinity gloves
+          { "id": 6924, "min": 1, "max": 1, "weight": 25 }, //Infinity bottoms
+          { "id": 6889, "min": 1, "max": 1, "weight": 5 }, //Mages book
+          { "id": 6914, "min": 1, "max": 1, "weight": 5 }, //Masters wand
+          { "id": 6731, "min": 1, "max": 1, "weight": 10 },  //Seers ring
+          { "id": 12002, "min": 1, "max": 1, "weight": 10 }  //Occult neckalce
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 12,
+        "items": [
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "ids": [ 1545, 2874, 2875, 4331 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1279, "min": 1, "max": 1, "weight": 1 }, //Iron sword
+        { "id": 1153, "min": 1, "max": 1, "weight": 1 }, //Iron full helm
+        { "id": 1424, "min": 1, "max": 1, "weight": 1 }, //Steel mace
+        { "id": 1283, "min": 1, "max": 1, "weight": 1 } //Black sword
+      ]
+    },
+    {
+      "name": "Runes/Ammunition",
+      "weight": 1,
+      "items": [
+        { "id": 557, "min": 10, "max": 10, "weight": 1 }, //Earth rune
+        { "id": 559, "min": 9, "max": 9, "weight": 1 }, //Body rune
+        { "id": 562, "min": 6, "max": 6, "weight": 1 }, //Chaos rune
+        { "id": 558, "min": 2, "max": 2, "weight": 1 }, //Mind rune
+        { "id": 560, "min": 2, "max": 2, "weight": 1 }, //Death rune
+        { "id": 888, "min": 3, "max": 3, "weight": 1 }, //Mithril arrow
+        { "id": 563, "min": 3, "max": 3, "weight": 1 }, //Law rune
+        { "id": 564, "min": 7, "max": 10, "weight": 1 } //Cosmic rune
+      ]
+    },
+    {
+      "name": "Seeds",
+      "weight": 1,
+      "items": [
+        { "id": 5318, "min": 4, "max": 4, "weight": 1 }, //Potato seed
+        { "id": 5319, "min": 4, "max": 4, "weight": 1 }, //Onion seed
+        { "id": 5324, "min": 4, "max": 4, "weight": 1 }, //Cabbage seed
+        { "id": 5322, "min": 3, "max": 3, "weight": 1 }, //Tomato seed
+        { "id": 5320, "min": 3, "max": 3, "weight": 1 }, //Sweetcorn seed
+        { "id": 5323, "min": 2, "max": 2, "weight": 1 }, //Strawberry seed
+        { "id": 5323, "min": 3, "max": 3, "weight": 1 }, //Strawberry seed
+        { "id": 5321, "min": 2, "max": 2, "weight": 1 } //Watermelon seed
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 1, "max": 58, "weight": 1 }, //Coins
+        { "id": 438, "min": 1, "max": 1, "weight": 1 }, //Tin ore
+        { "id": 2353, "min": 1, "max": 1, "weight": 1 }, //Steel bar
+        { "id": 1933, "min": 1, "max": 1, "weight": 1 }, //Pot of flour
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        { "id": 2309, "min": 1, "max": 1, "weight": 1 }, //Bread
+        #Unknown Item: "Herb"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 } //Herb
+      ]
+    }
+  ]
+}

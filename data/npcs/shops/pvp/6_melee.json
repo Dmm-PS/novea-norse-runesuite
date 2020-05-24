@@ -1,0 +1,100 @@
+{
+  "name": "Blood Money Melee Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 2153, "option": "melee" }
+  ],
+  "items": [
+    { "id": 5574, "price": 0 }, //Initiate sallet
+    { "id": 5575, "price": 0 }, //Initiate hauberk
+    { "id": 5576, "price": 0 }, //Initiate cuisse
+    { "id": 9672, "price": 0 }, //Proselyte sallet
+    { "id": 9674, "price": 0 }, //Proselyte hauberk
+    { "id": 9676, "price": 0 }, //Proselyte cuisse
+    { "id": 9678, "price": 0 }, //Proselyte tasset
+    { "id": 3753, "price": 0 }, //Warrior helm
+    { "id": 3751, "price": 0 }, //Berserker helm
+    { "id": 10828, "price": 0 }, //Helm of neitiznot
+    { "id": 1163, "price": 0 }, //Rune full helm
+    { "id": 1127, "price": 0 }, //Rune platebody
+    { "id": 1079, "price": 0 }, //Rune platelegs
+    { "id": 1093, "price": 0 }, //Rune plateskirt
+    { "id": 1201, "price": 0 }, //Rune kiteshield
+    { "id": 4131, "price": 0 }, //Rune boots
+    { "id": 3105, "price": 0 }, //Climbing boots
+    { "id": 12929, "price": 20000 }, //Serpentine helm 
+    { "id": 13196, "price": 30000 }, //Tanzanite helm 
+    { "id": 13198, "price": 30000 }, //Magma helm 
+    { "id": 11335, "price": 500 }, //Dragon full helm
+    { "id": 3140, "price": 500 }, //Dragon chainbody
+    { "id": 4087, "price": 500 }, //Dragon platelegs
+    { "id": 4585, "price": 500 }, //Dragon plateskirt
+    { "id": 1187, "price": 500 }, //Dragon sq shield
+    { "id": 11840, "price": 2500 }, //Dragon boots
+    { "id": 4745, "price": 2000 }, //Torag's helm
+    { "id": 4716, "price": 2000 }, //Dharok's helm
+    { "id": 4753, "price": 2000 }, //Verac's helm
+    { "id": 4724, "price": 2000 }, //Guthan's helm
+    { "id": 21298, "price": 7500 }, //Obsidian helmet
+    { "id": 21301, "price": 7500 }, //Obsidian platebody
+    { "id": 21304, "price": 7500 }, //Obsidian platelegs
+    { "id": 6568, "price": 500 }, //Obsidian cape
+    { "id": 6524, "price": 500 }, //Toktz-ket-xil
+    { "id": 13239, "price": 10000 }, //Primordial boots
+    { "id": 4749, "price": 3000 }, //Torag's platebody
+    { "id": 4720, "price": 3000 }, //Dharok's platebody
+    { "id": 4757, "price": 3000 }, //Verac's brassard
+    { "id": 4728, "price": 3000 }, //Guthan's platebody
+    { "id": 3122, "price": 0 }, //Granite shield
+    { "id": 6129, "price": 0 }, //Rock-shell plate
+    { "id": 6130, "price": 0 }, //Rock-shell legs
+    { "id": 11832, "price": 15000 }, //Bandos chestplate
+    { "id": 11834, "price": 15000 }, //Bandos tassets
+    { "id": 11836, "price": 2500 }, //Bandos boots
+    { "id": 4751, "price": 3000 }, //Torag's platelegs
+    { "id": 4722, "price": 3000 }, //Dharok's platelegs
+    { "id": 4759, "price": 3000 }, //Verac's plateskirt
+    { "id": 4730, "price": 3000 }, //Guthan's chainskirt
+    { "id": 1540, "price": 0 }, //Anti-dragon shield
+    { "id": 544, "price": 0 }, //Monk's robe top
+    { "id": 542, "price": 0 }, //Monk's robe
+    { "id": 12829, "price": 1000 }, //Spirit shield
+    { "id": 12831, "price": 3000 }, //Blessed spirit shield
+    { "id": 21733, "price": 8000 }, //Guardian boots - remove from shop
+    { "id": 4747, "price": 2000 }, //Torag's hammers
+    { "id": 4718, "price": 2000 }, //Dharok's greataxe
+    { "id": 4755, "price": 2000 }, //Verac's flail
+    { "id": 4726, "price": 2000 }, //Guthan's warspear
+    { "id": 11284, "price": 20000 }, //Dragonfire shield
+    { "id": 12727, "price": 0 }, //Event rpg
+    { "id": 8878, "price": 0 }, //Bone dagger (p++)
+    { "id": 6317, "price": 0 }, //Red topaz machete
+    { "id": 1333, "price": 0 }, //Rune scimitar
+    { "id": 1319, "price": 0 }, //Rune 2h sword
+    { "id": 11037, "price": 0 }, //Brine sabre
+    { "id": 6528, "price": 500 }, //Tzhaar-ket-om
+    { "id": 4153, "price": 1500 }, //Granite maul
+    { "id": 10887, "price": 500 }, //Barrelchest anchor
+    { "id": 11061, "price": 1000 }, //Ancient mace
+    { "id": 20727, "price": 500 }, //Leaf-bladed battleaxe
+    { "id": 4587, "price": 0 }, //Dragon scimitar
+    { "id": 1305, "price": 0 }, //Dragon longsword
+    { "id": 7158, "price": 0 }, //Dragon 2h sword
+    { "id": 1434, "price": 0 }, //Dragon mace
+    { "id": 3204, "price": 0 }, //Dragon halberd
+    { "id": 13576, "price": 7500 }, //Dragon warhammer
+    { "id": 5698, "price": 0 }, //Dragon dagger(p++)
+    { "id": 1249, "price": 500 }, //Dragon spear
+    { "id": 11824, "price": 10000 }, //Zamorakian spear
+    { "id": 4151, "price": 750 }, //Abyssal whip
+    { "id": 12006, "price": 3000 }, //Abyssal tentacle
+    { "id": 11838, "price": 3500 }, //Saradomin sword
+    { "id": 11806, "price": 15000 }, //Saradomin godsword
+    { "id": 11808, "price": 15000 }, //Zamorak godsword
+    { "id": 11804, "price": 25000 }, //Bandos godsword
+    { "id": 11802, "price": 50000 }, //Armadyl godsword
+    { "id": 13271, "price": 7500 }, //Abyssal dagger (p++)
+    { "id": 13263, "price": 10000 } //Abyssal bludgeon
+  ]
+}

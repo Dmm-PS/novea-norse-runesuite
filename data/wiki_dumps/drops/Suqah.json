@@ -1,0 +1,28 @@
+{
+  "ids": [ 787, 788, 789, 790, 791, 792, 793 ],
+  "guaranteed": [
+    { "id": 532, "min": 1, "max": 1 }, //Big bones
+    { "id": 9080, "min": 1, "max": 1 } //Suqah hide
+  ],
+  "tables": [
+    {
+      "name": "Bones",
+      "weight": 1,
+      "items": [
+        { "id": 10976, "min": 1, "max": 1, "weight": 1 }, //Long bone
+        { "id": 10977, "min": 1, "max": 1, "weight": 1 } //Curved bone
+      ]
+    },
+    {
+      "name": "Other drops",
+      "weight": 1,
+      "items": [
+        { "id": 9079, "min": 1, "max": 1, "weight": 1 }, //Suqah tooth
+        { "id": 199, "min": 1, "max": 1, "weight": 1 }, //Grimy guam leaf
+        { "id": 201, "min": 1, "max": 1, "weight": 1 }, //Grimy marrentill
+        { "id": 995, "min": 325, "max": 400, "weight": 1 }, //Coins
+        { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+      ]
+    }
+  ]
+}

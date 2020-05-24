@@ -1,0 +1,74 @@
+[
+  {
+    "ids": [ 7411 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1311, "min": 1, "max": 1, "weight": 6 }, //Steel 2h sword
+          { "id": 1353, "min": 1, "max": 1, "weight": 3 }, //Steel axe
+          { "id": 1365, "min": 1, "max": 1, "weight": 3 }, //Steel battleaxe
+          { "id": 1319, "min": 1, "max": 1, "weight": 1 } //Rune 2h sword
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1199, "min": 1, "max": 1, "weight": 12 }, //Adamant kiteshield
+          { "id": 1197, "min": 1, "max": 1, "weight": 12 }, //Mithril kiteshield
+          { "id": 1073, "min": 1, "max": 1, "weight": 6 }, //Adamant platelegs
+          { "id": 1163, "min": 1, "max": 1, "weight": 3 }, //Rune full helm
+          { "id": 4131, "min": 1, "max": 1, "weight": 1 } //Rune boots
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 563, "min": 26, "max": 26, "weight": 3 }, //Law rune
+          { "id": 563, "min": 35, "max": 35, "weight": 3 }, //Law rune
+          { "id": 565, "min": 16, "max": 16, "weight": 3 }, //Blood rune
+          { "id": 565, "min": 17, "max": 17, "weight": 3 }, //Blood rune
+          { "id": 565, "min": 19, "max": 19, "weight": 1 }, //Blood rune
+          { "id": 560, "min": 5, "max": 5, "weight": 1 }, //Death rune
+          { "id": 560, "min": 10, "max": 10, "weight": 1 }, //Death rune
+          { "id": 562, "min": 37, "max": 37, "weight": 1 } //Chaos rune
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5281, "min": 1, "max": 1, "weight": 6 }, //Belladonna seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 6 }, //Avantoe seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 6 }, //Kwuarm seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 6 }, //Toadflax seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 6}, //Cadantine seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 3 }, //Irit seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 3 }, //Cactus seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 3 }, //Dwarf weed seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 1 }, //Lantadyme seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 226, "min": 15, "max": 15, "weight": 9 }, //Limpwurt root (noted)
+          { "id": 13307, "min": 10, "max": 20, "weight": 9 }, //Blood money
+          { "id": 1734, "min": 10, "max": 10, "weight": 3 }, //Thread
+          { "id": 361, "min": 1, "max": 1, "weight": 3 }, //Tuna
+          { "id": 2357, "min": 1, "max": 1, "weight": 1 } //Gold bar
+        ]
+      }
+    ]
+  }
+]

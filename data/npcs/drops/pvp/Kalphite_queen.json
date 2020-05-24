@@ -1,0 +1,28 @@
+[
+  {
+    "ids": [ 963, 965, 4303, 4304, 6500, 6501 ],
+    "guaranteed": [
+      { "id": 13307, "min": 80, "max": 200 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Equipment",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 20, "max": 50, "weight": 4 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 4 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 4 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 4 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 4 }, //Super combat potion(4) (noted)
+          { "id": 3140, "min": 1, "max": 1, "weight": 1 }, //Dragon chainbody
+          { "id": 7158, "min": 1, "max": 1, "weight": 1 } //Dragon 2h sword
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 5,
+        "items": []
+      }
+    ]
+  }
+]

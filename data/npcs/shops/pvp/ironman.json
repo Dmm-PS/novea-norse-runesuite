@@ -1,0 +1,225 @@
+{
+  "name": "Ironman Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": true,
+  "npcs": [
+    { "id": 311, "option": "Open-shop" }
+  ],
+  "items": [
+   { "id": 556, "price": 0 }, //Air rune
+    { "id": 557, "price": 0 }, //Earth rune
+    { "id": 555, "price": 0 }, //Water rune
+    { "id": 554, "price": 0 }, //Fire rune
+    { "id": 562, "price": 0 }, //Chaos rune
+    { "id": 560, "price": 0 }, //Death rune
+    { "id": 565, "price": 0 }, //Blood rune
+    { "id": 561, "price": 0 }, //Nature rune
+    { "id": 563, "price": 0 }, //Law rune
+    { "id": 564, "price": 0 }, //Cosmic rune
+    { "id": 9075, "price": 0 }, //Astral rune
+    { "id": 566, "price": 0 }, //Soul rune
+    { "id": 4699, "price": 0 }, //Lava rune
+    { "id": 4698, "price": 0 }, //Mud rune
+    { "id": 4695, "price": 0 }, //Mist rune
+    { "id": 4694, "price": 0 }, //Steam rune
+    { "id": 4696, "price": 0 }, //Dust rune
+    { "id": 4697, "price": 0 }, //Smoke rune
+	{ "id": 21880, "price": 0 }, // Wrath rune
+ 	{ "id": 19625, "price": 0 }, //Home teleport
+    { "id": 12775, "price": 0 }, //Annakarl teleport
+    { "id": 12776, "price": 0 }, //Carrallangar teleport
+    { "id": 12777, "price": 0 }, //Dareeyak teleport
+    { "id": 12778, "price": 0 }, //Ghorrock teleport
+    { "id": 12779, "price": 0 }, //Kharyrll teleport
+    { "id": 12780, "price": 0 }, //Lassar teleport
+    { "id": 12781, "price": 0 }, //Paddewwa teleport
+    { "id": 12782, "price": 0 }, //Senntisten teleport
+    { "id": 8009, "price": 0 }, //Falador teleport
+    { "id": 8007, "price": 0 }, //Varrock teleport
+    { "id": 2436, "price": 0 }, //Super attack(4)
+    { "id": 2440, "price": 0 }, //Super strength(4)
+    { "id": 2442, "price": 0 }, //Super defence(4)
+    { "id": 2444, "price": 0 }, //Ranging potion(4)
+    { "id": 3040, "price": 0 }, //Magic potion(4)
+    { "id": 2434, "price": 0 }, //Prayer potion(4)
+    { "id": 3024, "price": 0 }, //Super restore(4)
+    { "id": 6685, "price": 0 }, //Saradomin brew(4)
+    { "id": 113, "price": 0 }, //Strength potion(4)
+    { "id": 2446, "price": 0 }, //Antipoison(4)
+    { "id": 2448, "price": 0 }, //Superantipoison(4)
+    { "id": 2452, "price": 0 }, //Antifire potion(4)
+    { "id": 11951, "price": 0 }, //Extended antifire (4)
+    { "id": 10925, "price": 0 }, //Sanfew serum(4)
+    { "id": 4417, "price": 0 }, //Guthix rest(4)
+    { "id": 333, "price": 0 }, //Trout
+    { "id": 379, "price": 0 }, //Lobster
+    { "id": 373, "price": 0 }, //Swordfish
+    { "id": 7946, "price": 0 }, //Monkfish
+    { "id": 385, "price": 0 }, //Shark
+    { "id": 3144, "price": 0 }, //Cooked karambwan
+    { "id": 2301, "price": 0 }, //Pineapple pizza
+    { "id": 7510, "price": 0 }, //Dwarven rock cake
+    { "id": 1523, "price": 0 }, //Lockpick
+    { "id": 2347, "price": 0 }, //Hammer
+    { "id": 952, "price": 0 }, //Spade
+    { "id": 954, "price": 0 }, //Rope
+    { "id": 301, "price": 0 }, //Lobster pot
+    { "id": 303, "price": 0 }, //Small fishing net
+    { "id": 11940, "price": 10 }, //Dark fishing bait
+    { "id": 4099, "price": 0 }, //Mystic hat (dark)
+    { "id": 4109, "price": 0 }, //Mystic hat (light)
+    { "id": 4089, "price": 0 }, //Mystic hat
+    { "id": 1169, "price": 0 }, //Coif
+    { "id": 1129, "price": 0 }, //Leather body
+    { "id": 1131, "price": 0 }, //Hardleather body
+    { "id": 1133, "price": 0 }, //Studded body
+    { "id": 1540, "price": 0 }, //Anti-dragon shield
+    { "id": 544, "price": 0 }, //Monk's robe top
+    { "id": 542, "price": 0 }, //Monk's robe
+    { "id": 4101, "price": 0 }, //Mystic robe top (dark)
+    { "id": 4111, "price": 0 }, //Mystic robe top (light)
+    { "id": 4091, "price": 0 }, //Mystic robe top
+    { "id": 1135, "price": 0 }, //Green d'hide body
+    { "id": 2499, "price": 0 }, //Blue d'hide body
+    { "id": 2501, "price": 0 }, //Red d'hide body
+    { "id": 2503, "price": 0 }, //Black d'hide body
+    { "id": 3122, "price": 0 }, //Granite shield
+    { "id": 6129, "price": 0 }, //Rock-shell plate
+    { "id": 6130, "price": 0 }, //Rock-shell legs
+    { "id": 4103, "price": 0 }, //Mystic robe bottom (dark)
+    { "id": 4113, "price": 0 }, //Mystic robe bottom (light)
+    { "id": 4093, "price": 0 }, //Mystic robe bottom
+    { "id": 1099, "price": 0 }, //Green d'hide chaps
+    { "id": 2493, "price": 0 }, //Blue d'hide chaps
+    { "id": 2495, "price": 0 }, //Red d'hide chaps
+    { "id": 2497, "price": 0 }, //Black d'hide chaps
+    { "id": 21166, "price": 0 }, //Burning amulet(5)
+    { "id": 1727, "price": 0 }, //Amulet of magic
+    { "id": 1731, "price": 0 }, //Amulet of power
+    { "id": 4107, "price": 0 }, //Mystic boots (dark)
+    { "id": 4117, "price": 0 }, //Mystic boots (light)
+    { "id": 4097, "price": 0 }, //Mystic boots
+    { "id": 1065, "price": 0 }, //Green d'hide vamb
+    { "id": 2487, "price": 0 }, //Blue d'hide vamb
+    { "id": 2489, "price": 0 }, //Red d'hide vamb
+    { "id": 2491, "price": 0 }, //Black d'hide vamb
+    { "id": 1725, "price": 0 }, //Amulet of strength
+    { "id": 11978, "price": 0 }, //Amulet of glory(6)
+    { "id": 11090, "price": 0 }, //Phoenix necklace
+    { "id": 6326, "price": 0 }, //Snakeskin bandana
+    { "id": 6322, "price": 0 }, //Snakeskin body
+    { "id": 6324, "price": 0 }, //Snakeskin chaps
+    { "id": 6328, "price": 0 }, //Snakeskin boots
+    { "id": 5574, "price": 0 }, //Initiate sallet
+    { "id": 5575, "price": 0 }, //Initiate hauberk
+    { "id": 5576, "price": 0 }, //Initiate cuisse
+    { "id": 2550, "price": 0 }, //Ring of recoil
+    { "id": 2570, "price": 0 }, //Ring of life
+    { "id": 2572, "price": 10000}, //Ring of wealth
+    { "id": 1163, "price": 0 }, //Rune full helm
+    { "id": 1127, "price": 0 }, //Rune platebody
+    { "id": 1079, "price": 0 }, //Rune platelegs
+    { "id": 1093, "price": 0 }, //Rune plateskirt
+    { "id": 1201, "price": 0 }, //Rune kiteshield
+    { "id": 4131, "price": 0 }, //Rune boots
+    { "id": 3105, "price": 0 }, //Climbing boots
+    { "id": 3753, "price": 0 }, //Warrior helm
+    { "id": 3751, "price": 0 }, //Berserker helm
+    { "id": 10828, "price": 0 }, //Helm of neitiznot
+    { "id": 1403, "price": 0 }, //Mystic water staff
+    { "id": 11789, "price": 0 }, //Mystic steam staff
+    { "id": 3054, "price": 0 }, //Mystic lava staff
+    { "id": 853, "price": 0 }, //Maple shortbow
+    { "id": 857, "price": 0 }, //Yew shortbow
+    { "id": 861, "price": 0 }, //Magic shortbow
+    { "id": 9185, "price": 0 }, //Rune crossbow
+    { "id": 579, "price": 0 }, //Blue wizard hat
+    { "id": 577, "price": 0 }, //Blue wizard robe
+    { "id": 1011, "price": 0 }, //Blue skirt
+    { "id": 6317, "price": 0 }, //Red topaz machete
+    { "id": 1333, "price": 0 }, //Rune scimitar
+    { "id": 1319, "price": 0 }, //Rune 2h sword
+    { "id": 4587, "price": 0 }, //Dragon scimitar
+    { "id": 1305, "price": 0 }, //Dragon longsword
+    { "id": 7158, "price": 0 }, //Dragon 2h sword
+    { "id": 1434, "price": 0 }, //Dragon mace
+    { "id": 1377, "price": 0 }, //Dragon battleaxe
+    { "id": 3204, "price": 0 }, //Dragon halberd
+    { "id": 5698, "price": 0 }, //Dragon dagger(p++)
+    { "id": 866, "price": 0 }, //Mithril knife
+    { "id": 867, "price": 0 }, //Adamant knife
+    { "id": 868, "price": 0 }, //Rune knife
+    { "id": 811, "price": 0 }, //Rune dart
+    { "id": 11230, "price": 10 }, //Dragon dart
+    { "id": 888, "price": 0 }, //Mithril arrow
+    { "id": 890, "price": 0 }, //Adamant arrow
+    { "id": 892, "price": 0 }, //Rune arrow
+    { "id": 11212, "price": 15 }, //Dragon arrow
+    { "id": 9241, "price": 0 }, //Emerald bolts (e)
+    { "id": 9242, "price": 0 }, //Ruby bolts (e)
+    { "id": 9243, "price": 0 }, //Diamond bolts (e)
+    { "id": 9244, "price": 0 }, //Dragon bolts (e)
+    { "id": 12846, "price": 2500 }, //Bounty teleport scroll
+    { "id": 12855, "price": 1000 }, //Hunter's honour
+    { "id": 12856, "price": 1000 }, //Rogue's revenge
+    { "id": 11941, "price": 2000 }, //Looting bag
+    { "id": 12791, "price": 15000 }, //Rune pouch
+    { "id": 1052, "price": 0 }, //Cape of legends
+    { "id": 13124, "price": 2500 }, //Ardougne cloak 4
+    { "id": 6570, "price": 5000 }, //Fire cape
+    { "id": 21295, "price": 200000 }, //Infernal cape
+    { "id": 3842, "price": 0 }, //Unholy book
+    { "id": 3840, "price": 0 }, //Holy book
+    { "id": 3844, "price": 0 }, //Book of balance
+    { "id": 2414, "price": 0 }, //Zamorak cape
+    { "id": 2412, "price": 0 }, //Saradomin cape
+    { "id": 2413, "price": 0 }, //Guthix cape
+    { "id": 7458, "price": 0 }, //Mithril gloves
+    { "id": 7459, "price": 0 }, //Adamant gloves
+    { "id": 7460, "price": 0 }, //Rune gloves
+    { "id": 7462, "price": 0 }, //Barrows gloves
+    { "id": 12608, "price": 500 }, //Book of war
+    { "id": 12610, "price": 500 }, //Book of law
+    { "id": 12612, "price": 500 }, //Book of darkness
+    { "id": 2417, "price": 0 }, //Zamorak staff
+    { "id": 2415, "price": 0 }, //Saradomin staff
+    { "id": 2416, "price": 0 }, //Guthix staff
+    { "id": 8848, "price": 0 }, //Mithril defender
+    { "id": 8849, "price": 0 }, //Adamant defender
+    { "id": 8850, "price": 0 }, //Rune defender
+    { "id": 12954, "price": 1500 }, //Dragon defender
+    { "id": 12638, "price": 1000 }, //Zamorak halo
+    { "id": 12637, "price": 1000 }, //Saradomin halo
+    { "id": 12639, "price": 1000 }, //Guthix halo
+    { "id": 11898, "price": 500 }, //Decorative armour
+    { "id": 11896, "price": 500 }, //Decorative armour
+    { "id": 11897, "price": 500 }, //Decorative armour
+    { "id": 11899, "price": 500 }, //Decorative armour
+    { "id": 11900, "price": 500 }, //Decorative armour
+    { "id": 11901, "price": 500 }, //Decorative armour
+    { "id": 10499, "price": 0 }, //Ava's accumulator
+    { "id": 8841, "price": 0 }, //Void knight mace
+    { "id": 11663, "price": 1000 }, //Void mage helm
+    { "id": 11665, "price": 1000 }, //Void melee helm
+    { "id": 11664, "price": 1000 }, //Void ranger helm
+    { "id": 8839, "price": 3500 }, //Void knight top
+    { "id": 8840, "price": 3500 }, //Void knight robe
+    { "id": 8842, "price": 500 }, //Void knight gloves
+    { "id": 10548, "price": 1000 }, //Fighter hat
+    { "id": 10551, "price": 1500 }, //Fighter torso
+    { "id": 10555, "price": 500 }, //Penance skirt
+    { "id": 6109, "price": 0 }, //Ghostly hood
+    { "id": 6107, "price": 0 }, //Ghostly robe
+    { "id": 6108, "price": 0 }, //Ghostly robe
+    { "id": 6111, "price": 0 }, //Ghostly cloak
+    { "id": 20716, "price": 6000 }, //Tome of fire
+    { "id": 13111, "price": 10000 }, //Wilderness sword (4)
+    { "id": 22114, "price": 5000 }, //Mythical cape
+    { "id": 22109, "price": 7500 }, //Ava's assembler
+    { "id": 19564, "price": 35000 }, //Royal seed pod
+    { "id": 4675, "price": 0 }, //Ancient staff
+    { "id": 10887, "price": 500 }, //Barrelchest anchor
+    { "id": 20718, "price": 50 } //Burnt page
+
+  ]
+}

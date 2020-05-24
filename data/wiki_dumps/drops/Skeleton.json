@@ -1,0 +1,23 @@
+{
+  "ids": [ 924, 74, 75, 76, 70, 71, 72, 73, 130, 3565, 3972, 3973, 3974, 7265, 77, 78, 79, 80, 81, 6444, 6446, 82, 83, 2521, 2522, 2523, 2520, 1685, 1686, 1687, 1688, 6442, 2524, 2525, 2526 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        #WikiNote: Only dropped by those found in the Wilderness while on a slayer assignment given by Krystilia.
+        //{ "id": 21257, "min": 1, "max": 1, "weight": 1 }, //Slayer's enchantment
+        #WikiNote: Only dropped by those found in the Wilderness while on a slayer assignment given by Krystilia.
+        //{ "id": 12746, "min": 1, "max": 1, "weight": 1 }, //Mysterious emblem
+        #WikiNote: Only dropped if access to Champions' Guild is available, and the Skeleton Champion hasn't been previously killed in the Champions' Challenge.
+        #Unknown Item: "Champion scroll (skeleton)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 } //Champion scroll (skeleton)
+      ]
+    }
+  ]
+}

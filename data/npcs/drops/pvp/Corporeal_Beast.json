@@ -1,0 +1,32 @@
+[
+  {
+    "ids": [ 319 ],
+    "guaranteed": [
+      { "id": 13307, "min": 200, "max": 450 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 200, "max": 500, "weight": 22 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 16 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 16 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 16 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 16 }, //Super combat potion(4) (noted)
+          { "id": 12829, "min": 1, "max": 1, "weight": 8 }, //Spirit shield
+          { "id": 12831, "min": 1, "max": 1, "weight": 8 }, //Blessed Spirit shield
+          { "id": 12833, "min": 1, "max": 1, "weight": 5 }, //Holy elixir
+          { "id": 12827, "min": 1, "max": 1, "weight": 2 }, //Spectral
+          { "id": 12823, "min": 1, "max": 1, "weight": 2 }, //Arcane
+          { "id": 12819, "min": 1, "max": 1, "weight": 1 }  //Ely
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 6,
+        "items": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "ids": [ 104, 105, 135, 7256, 3133 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        #WikiNote: 1/32 if a Ring of wealth (i) is worn and fought in the Wilderness.
+        //{ "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+        #WikiNote: Only dropped by those found in the Wilderness while on a slayer assignment given by Krystilia.
+        //{ "id": 21257, "min": 1, "max": 1, "weight": 1 }, //Slayer's enchantment
+        #WikiNote: Only dropped by those found in the Wilderness while on a slayer assignment given by Krystilia.
+        //{ "id": 12746, "min": 1, "max": 1, "weight": 1 }, //Mysterious emblem
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19677, "min": 1, "max": 1, "weight": 1 }, //Ancient shard
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19679, "min": 1, "max": 1, "weight": 1 }, //Dark totem base
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19681, "min": 1, "max": 1, "weight": 1 }, //Dark totem middle
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19683, "min": 1, "max": 1, "weight": 1 }, //Dark totem top
+        { "id": 13233, "min": 1, "max": 1, "weight": 1 } //Smouldering stone
+      ]
+    }
+  ]
+}

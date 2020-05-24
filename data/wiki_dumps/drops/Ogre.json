@@ -1,0 +1,52 @@
+{
+  "ids": [ 136, 2095, 2096, 2233, 1153 ],
+  "guaranteed": [
+    { "id": 532, "min": 1, "max": 1 } //Big bones
+  ],
+  "tables": [
+    {
+      "name": "Seeds",
+      "weight": 1,
+      "items": [
+        { "id": 5100, "min": 1, "max": 1, "weight": 1 }, //Limpwurt seed
+        { "id": 5323, "min": 1, "max": 1, "weight": 1 }, //Strawberry seed
+        { "id": 5280, "min": 1, "max": 1, "weight": 1 }, //Cactus seed
+        { "id": 5311, "min": 1, "max": 1, "weight": 1 }, //Wildblood seed
+        { "id": 5105, "min": 1, "max": 1, "weight": 1 }, //Whiteberry seed
+        { "id": 5104, "min": 1, "max": 1, "weight": 1 }, //Jangerberry seed
+        { "id": 5106, "min": 1, "max": 1, "weight": 1 }, //Poison ivy seed
+        { "id": 5292, "min": 1, "max": 1, "weight": 1 }, //Marrentill seed
+        { "id": 5297, "min": 1, "max": 1, "weight": 1 }, //Irit seed
+        { "id": 5298, "min": 1, "max": 1, "weight": 1 }, //Avantoe seed
+        { "id": 5301, "min": 1, "max": 1, "weight": 1 }, //Cadantine seed
+        { "id": 5294, "min": 1, "max": 1, "weight": 1 }, //Harralander seed
+        { "id": 5282, "min": 1, "max": 1, "weight": 1 }, //Mushroom spore
+        { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+        { "id": 5293, "min": 1, "max": 1, "weight": 1 }, //Tarromin seed
+        { "id": 5296, "min": 1, "max": 1, "weight": 1 }, //Toadflax seed
+        { "id": 5299, "min": 1, "max": 1, "weight": 1 }, //Kwuarm seed
+        { "id": 5304, "min": 1, "max": 1, "weight": 1 }, //Torstol seed
+        { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+        { "id": 5321, "min": 1, "max": 1, "weight": 1 }, //Watermelon seed
+        { "id": 5302, "min": 1, "max": 1, "weight": 1 }, //Lantadyme seed
+        { "id": 5281, "min": 1, "max": 1, "weight": 1 }, //Belladonna seed
+        { "id": 5303, "min": 1, "max": 1, "weight": 1 } //Dwarf weed seed
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only during Rag and Bone Man II.
+        //{ "id": 7842, "min": 1, "max": 1, "weight": 1 }, //Ogre ribs
+        { "id": 13478, "min": 1, "max": 1, "weight": 1 }, //Ensouled ogre head
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        #WikiNote: Only dropped by those located in the Wilderness God Wars Dungeon. Drop rate decreases to 1/70 if one key is owned, and 1/80 if two are owned. If the medium or hard Wilderness Diary is completed the drop rate of 1/60 still applies until a player owns two or three keys, respectively.
+        //{ "id": 11942, "min": 1, "max": 1, "weight": 1 }, //Ecumenical key
+        { "id": 10976, "min": 1, "max": 1, "weight": 1 }, //Long bone
+        { "id": 10977, "min": 1, "max": 1, "weight": 1 } //Curved bone
+      ]
+    }
+  ]
+}

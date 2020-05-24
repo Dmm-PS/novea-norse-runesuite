@@ -1,0 +1,41 @@
+[
+  {
+    "ids": [ 7934, 7936, 7935, 7937, 7932 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1, "weight": 1 }, //Bones
+      { "id": 21820, "min": 5, "max": 20, "weight": 1 }, //Ether
+      { "id": 13307, "min": 50, "max": 75 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 13442, "min": 20, "max": 50, "weight": 70 }, //Angler fish
+          { "id": 10926, "min": 2, "max": 10, "weight": 70 }, //Sanfew serum(4)
+          { "id": 12696, "min": 10, "max": 25, "weight": 70 }, //Super combat potion(4) (noted)
+          { "id": 21817, "min": 1, "max": 1, "weight": 30 }, //Bracelet of ethereum
+          { "id": 21807, "min": 1, "max": 1, "weight": 18 }, //Ancient emblem
+          { "id": 21810, "min": 1, "max": 1, "weight": 10 }, //Ancient totem
+          { "id": 21813, "min": 1, "max": 1, "weight": 6 }, //Ancient statuette
+          { "id": 19484, "min": 1, "max": 50, "weight": 50 }, //Dragon javelin
+          { "id": 21326, "min": 1, "max": 50, "weight": 70 }, //Amethyst arrow
+          { "id": 20724, "min": 1, "max": 1, "weight": 10 }, //Imbued heart
+          { "id": 22545, "min": 1, "max": 1, "weight": 3 }, //Viggora's chainmace
+          { "id": 22550, "min": 1, "max": 1, "weight": 3 }, //Craw's bow
+          { "id": 22555, "min": 1, "max": 1, "weight": 3 }, //Thammaron's sceptre
+          { "id": 22625, "min": 1, "max": 1, "weight": 2 }, //Statius's full helm
+          { "id": 22628, "min": 1, "max": 1, "weight": 2 }, //Statius's platebody
+          { "id": 22631, "min": 1, "max": 1, "weight": 2 }, //Statius's platelegs
+          { "id": 22616, "min": 1, "max": 1, "weight": 2 }, //Vesta's chainbody
+          { "id": 22619, "min": 1, "max": 1, "weight": 2 } //Vesta's plateskirt
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 3,
+        "items": []
+      }
+    ]
+  }
+]

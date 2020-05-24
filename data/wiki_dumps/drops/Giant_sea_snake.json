@@ -1,0 +1,54 @@
+{
+  "ids": [ 1101 ],
+  "guaranteed": [
+    { "id": 532, "min": 1, "max": 1 }, //Big bones
+    { "id": 7959, "min": 1, "max": 1 } //Heavy box
+  ],
+  "tables": [
+    {
+      "name": "Seeds",
+      "weight": 1,
+      "items": [
+        { "id": 5321, "min": 1, "max": 1, "weight": 1 }, //Watermelon seed
+        { "id": 5106, "min": 1, "max": 1, "weight": 1 }, //Poison ivy seed
+        { "id": 5291, "min": 1, "max": 1, "weight": 1 }, //Guam seed
+        { "id": 5292, "min": 1, "max": 1, "weight": 1 }, //Marrentill seed
+        { "id": 5293, "min": 1, "max": 1, "weight": 1 }, //Tarromin seed
+        { "id": 5294, "min": 1, "max": 1, "weight": 1 }, //Harralander seed
+        { "id": 5296, "min": 1, "max": 1, "weight": 1 }, //Toadflax seed
+        { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+        { "id": 5297, "min": 1, "max": 1, "weight": 1 }, //Irit seed
+        { "id": 5298, "min": 1, "max": 1, "weight": 1 }, //Avantoe seed
+        { "id": 5299, "min": 1, "max": 1, "weight": 1 }, //Kwuarm seed
+        { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+        { "id": 5301, "min": 1, "max": 1, "weight": 1 }, //Cadantine seed
+        { "id": 5302, "min": 1, "max": 1, "weight": 1 }, //Lantadyme seed
+        { "id": 5303, "min": 1, "max": 1, "weight": 1 }, //Dwarf weed seed
+        { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 23, "max": 23, "weight": 1 }, //Coins
+        { "id": 995, "min": 32, "max": 32, "weight": 1 }, //Coins
+        { "id": 995, "min": 44, "max": 44, "weight": 1 }, //Coins
+        { "id": 823, "min": 2, "max": 2, "weight": 1 }, //Adamant dart tip
+        { "id": 46, "min": 3, "max": 3, "weight": 1 }, //Pearl bolt tips
+        #Unknown Item: "Broad arrow"
+        //{ "id": -1, "min": 4, "max": 4, "weight": 1 }, //Broad arrow
+        { "id": 571, "min": 1, "max": 1, "weight": 1 }, //Water orb
+        { "id": 555, "min": 15, "max": 15, "weight": 1 }, //Water rune
+        { "id": 4695, "min": 1, "max": 1, "weight": 1 }, //Mist rune
+        { "id": 313, "min": 50, "max": 50, "weight": 1 }, //Fishing bait
+        { "id": 363, "min": 2, "max": 2, "weight": 1 }, //Raw bass
+        { "id": 377, "min": 1, "max": 1, "weight": 1 }, //Raw lobster
+        { "id": 405, "min": 1, "max": 1, "weight": 1 }, //Casket
+        { "id": 2801, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (medium)
+        { "id": 10976, "min": 1, "max": 1, "weight": 1 }, //Long bone
+        { "id": 10977, "min": 1, "max": 1, "weight": 1 } //Curved bone
+      ]
+    }
+  ]
+}

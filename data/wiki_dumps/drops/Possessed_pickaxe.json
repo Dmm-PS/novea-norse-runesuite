@@ -1,0 +1,27 @@
+{
+  "ids": [ 3612, 6469, 7268 ],
+  "tables": [
+    {
+      "name": "Haunted Mine",
+      "weight": 1,
+      "items": [
+        { "id": 1267, "min": 1, "max": 1, "weight": 1 } //Iron pickaxe
+      ]
+    },
+    {
+      "name": "Catacombs of Kourend",
+      "weight": 1,
+      "items": [
+        { "id": 1267, "min": 1, "max": 1, "weight": 1 }, //Iron pickaxe
+        { "id": 1269, "min": 1, "max": 1, "weight": 1 }, //Steel pickaxe
+        { "id": 1273, "min": 1, "max": 1, "weight": 1 }, //Mithril pickaxe
+        { "id": 1271, "min": 1, "max": 1, "weight": 1 }, //Adamant pickaxe
+        { "id": 1275, "min": 1, "max": 1, "weight": 1 }, //Rune pickaxe
+        { "id": 19677, "min": 1, "max": 1, "weight": 1 }, //Ancient shard
+        { "id": 19679, "min": 1, "max": 1, "weight": 1 }, //Dark totem base
+        { "id": 19681, "min": 1, "max": 1, "weight": 1 }, //Dark totem middle
+        { "id": 19683, "min": 1, "max": 1, "weight": 1 } //Dark totem top
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Alry's Molch Pearl Exchange",
+  "currency": "MOLCH_PEARLS",
+  "npcs": [
+    { "id": 8521, "option": "trade" }
+  ],
+  "items": [
+    {"id": 22838, "price": 1000}, // Fish sack
+    {"id": 13258, "price": 100}, // Angler hat
+    {"id": 13259, "price": 100}, // Angler top
+    {"id": 13260, "price": 100}, // Angler waders
+    {"id": 13261, "price": 100} // Angler boots
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Blood Money Misc Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 4579, "option": "misc" }
+  ],
+  "items": [
+    { "id": 19625, "price": 0 }, //Home teleport
+    { "id": 12775, "price": 0 }, //Annakarl teleport
+    { "id": 12776, "price": 0 }, //Carrallangar teleport
+    { "id": 12777, "price": 0 }, //Dareeyak teleport
+    { "id": 12778, "price": 0 }, //Ghorrock teleport
+    { "id": 12779, "price": 0 }, //Kharyrll teleport
+    { "id": 12780, "price": 0 }, //Lassar teleport
+    { "id": 12781, "price": 0 }, //Paddewwa teleport
+    { "id": 12782, "price": 0 }, //Senntisten teleport
+    { "id": 12934, "price": 1 }, //Zulrah's scales
+    { "id": 8010, "price": 0 }, //Camelot teleport
+    { "id": 333, "price": 0 }, //Trout
+    { "id": 379, "price": 0 }, //Lobster
+    { "id": 7946, "price": 0 }, //Monkfish
+    { "id": 373, "price": 0 }, //Swordfish
+    { "id": 385, "price": 0 }, //Shark
+    { "id": 7510, "price": 0 }, //Dwarven rock cake
+    { "id": 1523, "price": 0 }, //Lockpick
+    { "id": 2347, "price": 0 }, //Hammer
+    { "id": 952, "price": 0 }, //Spade
+    { "id": 8009, "price": 0 }, //Falador teleport
+    { "id": 11936, "price": 25 }, //Dark crab
+    { "id": 13441, "price": 50 }, //Anglerfish
+    { "id": 3144, "price": 0 }, //Cooked karambwan
+    { "id": 2297, "price": 0 }, //Anchovy pizza
+    { "id": 2301, "price": 0 }, //Pineapple pizza
+    { "id": 4417, "price": 0 }, //Guthix rest(4)
+    { "id": 954, "price": 0 }, //Rope
+    { "id": 301, "price": 0 }, //Lobster pot
+    { "id": 303, "price": 0 }, //Small fishing net
+    { "id": 8008, "price": 0 }, //Lumbridge teleport
+    { "id": 113, "price": 0 }, //Strength potion(4)
+    { "id": 2440, "price": 0 }, //Super strength(4)
+    { "id": 2436, "price": 0 }, //Super attack(4)
+    { "id": 2442, "price": 0 }, //Super defence(4)
+    { "id": 12695, "price": 30 }, //Super combat potion(4)
+    { "id": 12625, "price": 20 }, //Stamina potion(4)
+    { "id": 2450, "price": 0 }, //Zamorak brew
+    { "id": 11940, "price": 10 }, //Dark fishing bait
+    { "id": 2570, "price": 0 }, //Ring of life
+    { "id": 8007, "price": 0 }, //Varrock teleport
+    { "id": 3040, "price": 0 }, //Magic potion(4)
+    { "id": 2444, "price": 0 }, //Ranging potion(4)
+    { "id": 2434, "price": 0 }, //Prayer potion(4)
+    { "id": 3024, "price": 0 }, //Super restore(4)
+    { "id": 10925, "price": 0 }, //Sanfew serum(4)
+    { "id": 6685, "price": 0 }, //Saradomin brew(4)
+    { "id": 21166, "price": 0 }, //Burning amulet(5)
+    { "id": 1727, "price": 0 }, //Amulet of magic
+    { "id": 1731, "price": 0 }, //Amulet of power
+    { "id": 12853, "price": 2500 }, //Amulet of the damned
+    { "id": 2446, "price": 0 }, //Antipoison(4)
+    { "id": 2448, "price": 0 }, //Superantipoison(4)
+    { "id": 2452, "price": 0 }, //Antifire potion(4)
+    { "id": 11951, "price": 0 }, //Extended antifire (4)
+    { "id": 12905, "price": 25 }, //Anti-venom(4)
+    { "id": 12913, "price": 25 }, //Anti-venom+(4)
+    { "id": 1725, "price": 0 }, //Amulet of strength
+    { "id": 11978, "price": 0 }, //Amulet of glory(6)
+    { "id": 11090, "price": 0 }, //Phoenix necklace
+    { "id": 11133, "price": 500 }, //Regen bracelet
+    { "id": 11128, "price": 1000 }, //Berserker necklace
+    { "id": 6585, "price": 5000 }, //Amulet of fury
+    { "id": 12002, "price": 3500 }, //Occult necklace
+    { "id": 6735, "price": 2000 }, //Warrior ring
+    { "id": 6733, "price": 2000 }, //Archers ring
+    { "id": 6731, "price": 5000 }, //Seers ring
+    { "id": 6737, "price": 5000 }, //Berserker ring
+    { "id": 21739, "price": 500 }, //Granite ring
+    { "id": 19550, "price": 15000 }, //Ring of suffering
+    { "id": 19544, "price": 15000 }, //Tormented bracelet
+    { "id": 19547, "price": 15000 }, //Necklace of anguish
+    { "id": 19553, "price": 20000 }, //Amulet of torture
+    { "id": 12605, "price": 3500 }, //Treasonous ring
+    { "id": 12601, "price": 3500 }, //Ring of the gods
+    { "id": 12603, "price": 3500 }, //Tyrannical ring
+    { "id": 2550, "price": 0}, //Ring of recoiil
+    { "id": 2572, "price": 10000} //Ring of wealth
+  ]
+}

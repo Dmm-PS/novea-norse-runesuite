@@ -1,0 +1,60 @@
+{
+  "ids": [ 5007, 3134 ],
+  "guaranteed": [
+    { "id": 592, "min": 1, "max": 1 } //Ashes
+  ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        { "id": 877, "min": 1, "max": 1, "weight": 1 }, //Bronze bolts
+        { "id": 579, "min": 1, "max": 1, "weight": 1 }, //Blue wizard hat
+        { "id": 1949, "min": 1, "max": 1, "weight": 1 } //Chef's hat
+      ]
+    },
+    {
+      "name": "Food",
+      "weight": 1,
+      "items": [
+        { "id": 2309, "min": 1, "max": 1, "weight": 1 }, //Bread
+        { "id": 1965, "min": 1, "max": 1, "weight": 1 }, //Cabbage
+        { "id": 2142, "min": 1, "max": 1, "weight": 1 } //Cooked meat
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 1759, "min": 1, "max": 1, "weight": 1 }, //Ball of wool
+        { "id": 1944, "min": 1, "max": 1, "weight": 1 }, //Egg
+        { "id": 590, "min": 1, "max": 1, "weight": 1 }, //Tinderbox
+        { "id": 1925, "min": 1, "max": 1, "weight": 1 }, //Bucket
+        { "id": 2347, "min": 1, "max": 1, "weight": 1 }, //Hammer
+        { "id": 753, "min": 1, "max": 1, "weight": 1 }, //Cadava berries
+        { "id": 2307, "min": 1, "max": 1, "weight": 1 }, //Bread dough
+        { "id": 2138, "min": 1, "max": 1, "weight": 1 }, //Raw chicken
+        { "id": 592, "min": 1, "max": 1, "weight": 1 }, //Ashes
+        { "id": 2146, "min": 1, "max": 1, "weight": 1 }, //Burnt meat
+        { "id": 2311, "min": 1, "max": 1, "weight": 1 }, //Burnt bread
+        { "id": 1935, "min": 1, "max": 1, "weight": 1 }, //Jug
+        { "id": 1933, "min": 1, "max": 1, "weight": 1 }, //Pot of flour
+        { "id": 434, "min": 1, "max": 1, "weight": 1 }, //Clay
+        { "id": 195, "min": 1, "max": 1, "weight": 1 }, //Potion
+        { "id": 956, "min": 1, "max": 1, "weight": 1 }, //Flier
+        { "id": 1448, "min": 1, "max": 1, "weight": 1 }, //Mind talisman
+        { "id": 1937, "min": 1, "max": 1, "weight": 1 }, //Jug of water
+        { "id": 1929, "min": 1, "max": 1, "weight": 1 }, //Bucket of water
+        { "id": 1735, "min": 1, "max": 1, "weight": 1 }, //Shears
+        { "id": 1947, "min": 1, "max": 1, "weight": 1 }, //Grain
+        { "id": 13454, "min": 1, "max": 1, "weight": 1 }, //Ensouled imp head
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        #WikiNote: Only dropped by those located in the Wilderness God Wars Dungeon. Drop rate decreases to 1/70 if one key is owned, and 1/80 if two are owned. If the medium or hard Wilderness Diary is completed the drop rate of 1/60 still applies until a player owns two or three keys, respectively.
+        //{ "id": 11942, "min": 1, "max": 1, "weight": 1 }, //Ecumenical key
+        #Unknown Item: "Champion scroll (imp)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 } //Champion scroll (imp)
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ids": [ 3127, 6506 ],
+  "tables": [
+    {
+      "name": "Fighting TzTok-Jad",
+      "weight": 1,
+      "items": [
+      ]
+    },
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        #WikiNote: Tzrek-jad drop rate is 1/100 if TzTok-Jad is killed while on a TzHaar slayer task.
+        //{ "id": 13225, "min": 1, "max": 1, "weight": 1 } //Tzrek-jad
+      ]
+    }
+  ]
+}

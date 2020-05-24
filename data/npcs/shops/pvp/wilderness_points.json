@@ -1,0 +1,38 @@
+{
+  "name": "Wilderness Points Exchange",
+  "currency": "WILDERNESS_POINTS",
+  "ironman": true,
+  "npcs": [
+    { "id": 315, "option": "trade" }
+  ],
+  "items": [
+    { "id": 11832, "price": 15000 }, //Bandos chestplate
+    { "id": 11834, "price": 15000 }, //Bandos tassets
+    { "id": 11828, "price": 15000 }, //Armadyl chest
+    { "id": 11830, "price": 15000 }, //Armadyl body
+    { "id": 11802, "price": 40000 }, //Armadyl godsword
+    { "id": 11804, "price": 17000 }, //Bandos godsword
+    { "id": 11806, "price": 19000 }, //Saradomin godsword
+    { "id": 11808, "price": 25000 }, //Zamorak godsword
+    { "id": 13652, "price": 125000 }, //Dragon claws
+    { "id": 20997, "price": 250000 }, //Twisted bow
+    { "id": 11785, "price": 35000 }, //Armadyl crossbow
+    { "id": 19481, "price": 25000 }, //Ballista
+    { "id": 11791, "price": 10000 }, //Staff of the dead
+    { "id": 12902, "price": 20000 }, //Toxic staff of the dead (empty)
+    { "id": 22326, "price": 125000 }, //Justiciar helm
+    { "id": 22327, "price": 200000 }, //Justiciar plate
+    { "id": 22328, "price": 200000 }, //Justiciar legs
+    { "id": 21018, "price": 150000 }, //Ancestral hat
+    { "id": 21021, "price": 150000 }, //Ancestral top
+    { "id": 21024, "price": 150000 }, //Ancestral bottom
+    { "id": 21006, "price": 200000 }, //Kodai Wand
+    { "id": 22324, "price": 200000 }, //Ghrazi rapier
+    { "id": 22477, "price": 125000 }, //Avernic defender hilt
+    { "id": 21034, "price": 175000 }, //Dexterous prayer scroll
+    { "id": 21047, "price": 25000 }, //Torn prayer scroll
+    { "id": 21079, "price": 175000 }, //Arance prayer scroll
+    { "id": 13442, "price": 25 }, //Anglerfish
+    { "id": 12696, "price": 25 } //Super combat potion(4)
+]
+}

@@ -1,0 +1,55 @@
+{
+  "ids": [ 2207 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Weapons",
+      "weight": 1,
+      "items": [
+        { "id": 808, "min": 95, "max": 100, "weight": 1 }, //Steel dart
+        { "id": 11838, "min": 1, "max": 1, "weight": 1 } //Saradomin sword
+      ]
+    },
+    {
+      "name": "Arrows",
+      "weight": 1,
+      "items": [
+        { "id": 886, "min": 95, "max": 100, "weight": 1 } //Steel arrow
+      ]
+    },
+    {
+      "name": "Herbs",
+      "weight": 1,
+      "items": [
+        { "id": 208, "min": 1, "max": 1, "weight": 1 } //Grimy ranarr weed (noted)
+      ]
+    },
+    {
+      "name": "Godsword shards",
+      "weight": 1,
+      "items": [
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+        #WikiNote: The drop rate is 1/508 for any godsword shard, or 1/1,524 for a specific piece.(Source)
+        //{ "id": 11822, "min": 1, "max": 1, "weight": 1 } //Godsword shard 3
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 1300, "max": 2000, "weight": 1 }, //Coins
+        { "id": 232, "min": 5, "max": 5, "weight": 1 }, //Snape grass (noted)
+        { "id": 7218, "min": 1, "max": 1, "weight": 1 }, //Summer pie
+        { "id": 238, "min": 6, "max": 6, "weight": 1 }, //Unicorn horn (noted)
+        { "id": 7946, "min": 3, "max": 3, "weight": 1 }, //Monkfish
+        #WikiNote: Twitter - 10 May 2015
+        //{ "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+      ]
+    }
+  ]
+}

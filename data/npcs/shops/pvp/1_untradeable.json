@@ -1,0 +1,66 @@
+{
+  "name": "Blood Money Untradeable Shop",
+  "currency": "BLOOD_MONEY",
+  "npcs": [
+    { "id": 4225, "option": "untradeable" }
+  ],
+  "items": [
+    { "id": 12846, "price": 2500 }, //Bounty teleport scroll
+    { "id": 12855, "price": 1000 }, //Hunter's honour
+    { "id": 12856, "price": 1000 }, //Rogue's revenge
+    { "id": 11941, "price": 2000 }, //Looting bag
+    { "id": 12791, "price": 15000 }, //Rune pouch
+    { "id": 1052, "price": 0 }, //Cape of legends
+    { "id": 13124, "price": 2500 }, //Ardougne cloak 4
+    { "id": 6570, "price": 5000 }, //Fire cape
+    { "id": 21295, "price": 200000 }, //Infernal cape
+    { "id": 3842, "price": 0 }, //Unholy book
+    { "id": 3840, "price": 0 }, //Holy book
+    { "id": 3844, "price": 0 }, //Book of balance
+    { "id": 2414, "price": 0 }, //Zamorak cape
+    { "id": 2412, "price": 0 }, //Saradomin cape
+    { "id": 2413, "price": 0 }, //Guthix cape
+    { "id": 7458, "price": 0 }, //Mithril gloves
+    { "id": 7459, "price": 0 }, //Adamant gloves
+    { "id": 7460, "price": 0 }, //Rune gloves
+    { "id": 7462, "price": 0 }, //Barrows gloves
+    { "id": 12608, "price": 500 }, //Book of war
+    { "id": 12610, "price": 500 }, //Book of law
+    { "id": 12612, "price": 500 }, //Book of darkness
+    { "id": 2417, "price": 0 }, //Zamorak staff
+    { "id": 2415, "price": 0 }, //Saradomin staff
+    { "id": 2416, "price": 0 }, //Guthix staff
+    { "id": 8848, "price": 0 }, //Mithril defender
+    { "id": 8849, "price": 0 }, //Adamant defender
+    { "id": 8850, "price": 0 }, //Rune defender
+    { "id": 12954, "price": 1500 }, //Dragon defender
+    { "id": 12638, "price": 1000 }, //Zamorak halo
+    { "id": 12637, "price": 1000 }, //Saradomin halo
+    { "id": 12639, "price": 1000 }, //Guthix halo
+    { "id": 11898, "price": 500 }, //Decorative armour
+    { "id": 11896, "price": 500 }, //Decorative armour
+    { "id": 11897, "price": 500 }, //Decorative armour
+    { "id": 11899, "price": 500 }, //Decorative armour
+    { "id": 11900, "price": 500 }, //Decorative armour
+    { "id": 11901, "price": 500 }, //Decorative armour
+    { "id": 10499, "price": 0 }, //Ava's accumulator
+    { "id": 8841, "price": 0 }, //Void knight mace
+    { "id": 11663, "price": 1000 }, //Void mage helm
+    { "id": 11665, "price": 1000 }, //Void melee helm
+    { "id": 11664, "price": 1000 }, //Void ranger helm
+    { "id": 8839, "price": 3500 }, //Void knight top
+    { "id": 8840, "price": 3500 }, //Void knight robe
+    { "id": 8842, "price": 500 }, //Void knight gloves
+    { "id": 10548, "price": 1000 }, //Fighter hat
+    { "id": 10551, "price": 1500 }, //Fighter torso
+    { "id": 10555, "price": 500 }, //Penance skirt
+    { "id": 6109, "price": 0 }, //Ghostly hood
+    { "id": 6107, "price": 0 }, //Ghostly robe
+    { "id": 6108, "price": 0 }, //Ghostly robe
+    { "id": 6111, "price": 0 }, //Ghostly cloak
+    { "id": 13111, "price": 10000 }, //Wilderness sword (4)
+    { "id": 22114, "price": 5000 }, //Mythical cape
+    { "id": 22109, "price": 7500 }, //Ava's assembler
+    { "id": 19564, "price": 35000 } //Royal seed pod
+  ]
+}

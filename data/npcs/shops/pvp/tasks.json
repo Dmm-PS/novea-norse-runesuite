@@ -1,0 +1,55 @@
+{
+  "name": "Daily Tasks Rewards",
+  "currency": "TASK_POINTS",
+  "ironman": true,
+  "npcs": [
+    { "id": 306, "option": "task-rewards" }
+  ],
+  "items": [
+{"id": 8963, "price": 10 }, //Black tricorn hat
+{"id": 8956, "price": 10 }, //Black naval shirt
+{"id": 8995, "price": 10 }, //Black navy slacks
+{"id": 8959, "price": 10 }, //Blue tricorn hat
+{"id": 8952, "price": 10 }, //Blue naval shirt
+{"id": 8991, "price": 10 }, //Blue navy slacks
+{"id": 8962, "price": 10 }, //Brown tricorn hat
+{"id": 8955, "price": 10 }, //Brown naval shirt
+{"id": 8994, "price": 10 }, //Brown navy slacks
+{"id": 8960, "price": 10 }, //Green tricorn hat
+{"id": 8953, "price": 10 }, //Green naval shirt
+{"id": 8992, "price": 10 }, //Green navy slacks
+{"id": 8965, "price": 10 }, //Grey tricorn hat
+{"id": 8958, "price": 10 }, //Grey naval shirt
+{"id": 8997, "price": 10 }, //Grey navy slacks
+{"id": 8964, "price": 10 }, //Purple tricorn hat
+{"id": 8957, "price": 10 }, //Purple naval shirt
+{"id": 8996, "price": 10 }, //Purple navy slacks
+{"id": 8961, "price": 10 }, //Red tricorn hat
+{"id": 8954, "price": 10 }, //Red naval shirt
+{"id": 8993, "price": 10 }, //Red navy slacks
+{"id": 20704, "price": 15 }, //Pyromancer garb
+{"id": 20706, "price": 15 }, //Pyromancer robe
+{"id": 20708, "price": 15 }, //Pyromancer hood
+{"id": 20710, "price": 15 }, //Pyromancer boots
+{"id": 19689, "price": 30 }, //Clue hunter garb
+{"id": 19691, "price": 30 }, //Clue hunter gloves
+{"id": 19693, "price": 30 }, //Clue hunter trousers
+{"id": 19695, "price": 30 }, //Clue hunter boots
+{"id": 19697, "price": 30 }, //Clue hunter cloak
+{"id": 20433, "price": 10 }, //Evil chicken feet
+{"id": 20436, "price": 10 }, //Evil chicken wings
+{"id": 20439, "price": 10 }, //Evil chicken head
+{"id": 20442, "price": 10 }, //Evil chicken legs
+{"id": 11919, "price": 10 }, //Cow mask
+{"id": 12956, "price": 10 }, //Cow top
+{"id": 12957, "price": 10 }, //Cow trousers
+{"id": 12958, "price": 10 }, //Cow gloves
+{"id": 12959, "price": 10 }, //Cow shoes
+{"id": 13283, "price": 10 }, //Gravedigger mask
+{"id": 13284, "price": 10 }, //Gravedigger top
+{"id": 13285, "price": 10 }, //Gravedigger leggings
+{"id": 13286, "price": 10 }, //Gravedigger boots
+{"id": 13287, "price": 10 }, //Gravedigger gloves
+{"id": 22316, "price": 60 } //Prop sword
+  ]
+}

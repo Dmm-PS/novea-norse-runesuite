@@ -1,0 +1,72 @@
+{
+  "ids": [ 2205, 6493 ],
+  "guaranteed": [
+    { "id": 526, "min": 1, "max": 1 } //Bones
+  ],
+  "tables": [
+    {
+      "name": "Weapons",
+      "weight": 1,
+      "items": [
+        #WikiNote: Twitter - 23 August 2017
+        //{ "id": 11838, "min": 1, "max": 1, "weight": 1 }, //Saradomin sword
+        #WikiNote: Twitter - 23 August 2017
+        //{ "id": 11785, "min": 1, "max": 1, "weight": 1 }, //Armadyl crossbow
+        #WikiNote: Twitter - 16 Sep 2015
+        //{ "id": 1289, "min": 1, "max": 1, "weight": 1 } //Rune sword
+      ]
+    },
+    {
+      "name": "Runes and Ammunition",
+      "weight": 1,
+      "items": [
+        { "id": 811, "min": 35, "max": 40, "weight": 1 }, //Rune dart
+        { "id": 563, "min": 95, "max": 105, "weight": 1 } //Law rune
+      ]
+    },
+    {
+      "name": "Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1093, "min": 1, "max": 1, "weight": 1 }, //Rune plateskirt
+        { "id": 1123, "min": 1, "max": 1, "weight": 1 }, //Adamant platebody
+        { "id": 1201, "min": 1, "max": 1, "weight": 1 } //Rune kiteshield
+      ]
+    },
+    {
+      "name": "Herbs, potions, and seeds",
+      "weight": 1,
+      "items": [
+        { "id": 208, "min": 5, "max": 5, "weight": 1 }, //Grimy ranarr weed (noted)
+        { "id": 5295, "min": 2, "max": 2, "weight": 1 }, //Ranarr seed
+        { "id": 2434, "min": 3, "max": 3, "weight": 1 }, //Prayer potion(4)
+        #Unknown Item: "Saradomin brew(3)[3]"
+        //{ "id": -1, "min": 3, "max": 3, "weight": 1 }, //Saradomin brew(3)[3]
+        #Unknown Item: "Super restore(4)[3]"
+        //{ "id": -1, "min": 3, "max": 3, "weight": 1 }, //Super restore(4)[3]
+        #Unknown Item: "Super defence(4)[4]"
+        //{ "id": -1, "min": 3, "max": 3, "weight": 1 }, //Super defence(4)[4]
+        #Unknown Item: "Magic potion(3)[4]"
+        //{ "id": -1, "min": 3, "max": 3, "weight": 1 }, //Magic potion(3)[4]
+        { "id": 5316, "min": 1, "max": 1, "weight": 1 } //Magic seed
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 19362, "max": 20300, "weight": 1 }, //Coins
+        { "id": 1602, "min": 6, "max": 6, "weight": 1 }, //Diamond (noted)
+        #WikiNote: Twitter - 23 August 2017
+        //{ "id": 13256, "min": 1, "max": 1, "weight": 1 }, //Saradomin's light
+        { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+        { "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+        { "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+        { "id": 11822, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 3
+        #WikiNote: Twitter - 23 August 2017
+        //{ "id": 11814, "min": 1, "max": 1, "weight": 1 }, //Saradomin hilt
+        { "id": 12651, "min": 1, "max": 1, "weight": 1 } //Pet zilyana
+      ]
+    }
+  ]
+}

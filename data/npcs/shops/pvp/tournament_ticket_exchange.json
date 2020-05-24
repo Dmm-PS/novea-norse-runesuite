@@ -1,0 +1,21 @@
+{
+  "name": "Tournament Rewards",
+  "currency": "TOURNAMENT_TICKETS",
+  "ironman": true,
+  "npcs": [
+    { "id": 7316, "option": "ticket-exchange" }
+  ],
+  "items": [
+    { "id": 12810, "price": 20 }, //Ironman helmet
+    { "id": 12811, "price": 20 }, //Ironman tournament
+    { "id": 12812, "price": 20 }, //Ironman platelegs
+
+    { "id": 12813, "price": 40 }, //Ultimate ironman helmet
+    { "id": 12814, "price": 40 }, //Ultimate ironman tournament
+    { "id": 12815, "price": 40 }, //Ultimate ironman platelegs
+
+    { "id": 20792, "price": 100 }, //Hardcode ironman helmet
+    { "id": 20794, "price": 100 }, //Hardcode ironman tournament
+    { "id": 20796, "price": 100 } //Hardcode ironman platelegs
+]
+}

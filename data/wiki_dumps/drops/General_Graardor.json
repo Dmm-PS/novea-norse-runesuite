@@ -1,0 +1,73 @@
+{
+  "ids": [ 2215, 6494 ],
+  "tables": [
+    {
+      "name": "Always Drop",
+      "weight": 1,
+      "items": [
+        { "id": 532, "min": 1, "max": 1, "weight": 1 } //Big bones
+      ]
+    },
+    {
+      "name": "Weapons",
+      "weight": 1,
+      "items": [
+        { "id": 1319, "min": 1, "max": 1, "weight": 1 }, //Rune 2h sword
+        { "id": 1275, "min": 1, "max": 1, "weight": 1 }, //Rune pickaxe
+        { "id": 1303, "min": 1, "max": 1, "weight": 1 }, //Rune longsword
+        { "id": 1289, "min": 1, "max": 1, "weight": 1 } //Rune sword
+      ]
+    },
+    {
+      "name": "Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1127, "min": 1, "max": 1, "weight": 1 }, //Rune platebody
+        #WikiNote: 1/128 chance of dropping one of three Bandos items or 1/384 chance of dropping a unique Bandos drop.
+        //{ "id": 11832, "min": 1, "max": 1, "weight": 1 }, //Bandos chestplate
+        #WikiNote: 1/128 chance of dropping one of three Bandos items or 1/384 chance of dropping a unique Bandos drop.
+        //{ "id": 11834, "min": 1, "max": 1, "weight": 1 }, //Bandos tassets
+        #WikiNote: 1/128 chance of dropping one of three Bandos items or 1/384 chance of dropping a unique Bandos drop.
+        //{ "id": 11836, "min": 1, "max": 1, "weight": 1 } //Bandos boots
+      ]
+    },
+    {
+      "name": "Runes",
+      "weight": 1,
+      "items": [
+        { "id": 561, "min": 60, "max": 70, "weight": 1 } //Nature rune
+      ]
+    },
+    {
+      "name": "Gems and ores",
+      "weight": 1,
+      "items": [
+        { "id": 450, "min": 15, "max": 20, "weight": 1 }, //Adamantite ore (noted)
+        { "id": 454, "min": 115, "max": 120, "weight": 1 } //Coal (noted)
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 19581, "max": 21000, "weight": 1 }, //Coins
+        { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+        { "id": 1514, "min": 15, "max": 20, "weight": 1 }, //Magic logs (noted)
+        { "id": 3024, "min": 3, "max": 3, "weight": 1 }, //Super restore(4)
+        { "id": 3052, "min": 3, "max": 3, "weight": 1 }, //Grimy snapdragon (noted)
+        { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+        #WikiNote: https://twitter.com/JagexAsh/status/710459690090668032
+        //{ "id": 11812, "min": 1, "max": 1, "weight": 1 }, //Bandos hilt
+        #WikiNote: The drop rate is 1/256 for a specific Godsword Shard piece, or 1/86 for any piece.
+        //{ "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+        #WikiNote: The drop rate is 1/256 for a specific Godsword Shard piece, or 1/86 for any piece.
+        //{ "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+        #WikiNote: The drop rate is 1/256 for a specific Godsword Shard piece, or 1/86 for any piece.
+        //{ "id": 11822, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 3
+        { "id": 10976, "min": 1, "max": 1, "weight": 1 }, //Long bone
+        { "id": 10977, "min": 1, "max": 1, "weight": 1 }, //Curved bone
+        { "id": 12650, "min": 1, "max": 1, "weight": 1 } //Pet general graardor
+      ]
+    }
+  ]
+}

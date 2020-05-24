@@ -1,0 +1,11 @@
+{
+  "name": "Unidentified Mineral Exchange",
+  "currency": "UNIDENTIFIED_MINERALS",
+  "npcs": [
+    { "id": 7719, "option": "trade" }
+  ],
+  "items": [
+    { "id": 21343, "price": 60 }, 	 // Mining gloves
+    { "id": 21345, "price": 120 } 	 // Superior mining gloves
+  ]
+}

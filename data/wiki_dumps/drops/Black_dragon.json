@@ -1,0 +1,62 @@
+{
+  "ids": [ 252, 253, 254, 255, 256, 257, 258, 259 ],
+  "guaranteed": [
+    { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+    { "id": 1747, "min": 1, "max": 1 }, //Black dragonhide
+    #WikiNote: Only dropped during the Sir Amik Varze subquest of Recipe for Disaster if the player doesn't have one already.
+    //{ "id": 7478, "min": 1, "max": 1 } //Dragon token
+  ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1355, "min": 1, "max": 1, "weight": 1 }, //Mithril axe
+        { "id": 1369, "min": 1, "max": 1, "weight": 1 }, //Mithril battleaxe
+        { "id": 1197, "min": 1, "max": 1, "weight": 1 }, //Mithril kiteshield
+        { "id": 1315, "min": 1, "max": 1, "weight": 1 }, //Mithril 2h sword
+        { "id": 1123, "min": 1, "max": 1, "weight": 1 }, //Adamant platebody
+        { "id": 1303, "min": 1, "max": 1, "weight": 1 } //Rune longsword
+      ]
+    },
+    {
+      "name": "Ammunition/Runes",
+      "weight": 1,
+      "items": [
+        { "id": 816, "min": 16, "max": 16, "weight": 1 }, //Adamant dart(p)
+        { "id": 829, "min": 30, "max": 30, "weight": 1 }, //Adamant javelin
+        { "id": 829, "min": 60, "max": 60, "weight": 1 }, //Adamant javelin
+        { "id": 554, "min": 50, "max": 50, "weight": 1 }, //Fire rune
+        { "id": 868, "min": 2, "max": 2, "weight": 1 }, //Rune knife
+        { "id": 556, "min": 75, "max": 75, "weight": 1 }, //Air rune
+        { "id": 563, "min": 10, "max": 10, "weight": 1 }, //Law rune
+        { "id": 565, "min": 15, "max": 15, "weight": 1 }, //Blood rune
+        { "id": 19582, "min": 10, "max": 10, "weight": 1 } //Dragon javelin heads
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 995, "min": 196, "max": 196, "weight": 1 }, //Coins
+        { "id": 995, "min": 330, "max": 330, "weight": 1 }, //Coins
+        { "id": 995, "min": 690, "max": 690, "weight": 1 }, //Coins
+        { "id": 2361, "min": 1, "max": 1, "weight": 1 }, //Adamantite bar
+        { "id": 2361, "min": 2, "max": 2, "weight": 1 }, //Adamantite bar
+        { "id": 1897, "min": 1, "max": 1, "weight": 1 }, //Chocolate cake
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 }, //Looting bag
+        { "id": 13511, "min": 1, "max": 1, "weight": 1 }, //Ensouled dragon head
+        #WikiNote: Only dropped by those found in the Wilderness while on a slayer assignment given by Krystilia.
+        //{ "id": 21257, "min": 1, "max": 1, "weight": 1 }, //Slayer's enchantment
+        #WikiNote: Only dropped by those found in the Wilderness while on a slayer assignment given by Krystilia.
+        //{ "id": 12746, "min": 1, "max": 1, "weight": 1 }, //Mysterious emblem
+        #WikiNote: 1/64 if a Ring of wealth (i) is worn and fought in the Wilderness.
+        //{ "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+        #WikiNote: 1/250 if a Ring of wealth (i) is worn and fought in the Wilderness.
+        //{ "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+        { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+      ]
+    }
+  ]
+}

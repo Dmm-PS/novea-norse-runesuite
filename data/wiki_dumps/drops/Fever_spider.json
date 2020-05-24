@@ -1,0 +1,16 @@
+{
+  "ids": [ 626 ],
+  "guaranteed": [
+    #WikiNote: Only dropped during Rum Deal.
+    //{ "id": 6718, "min": 1, "max": 1 } //Fever spider body
+  ],
+  "tables": [
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 213, "min": 1, "max": 1, "weight": 1 } //Grimy kwuarm
+      ]
+    }
+  ]
+}

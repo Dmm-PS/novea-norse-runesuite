@@ -1,0 +1,25 @@
+[
+  {
+    "ids": [ 104, 105, 135, 7256, 3133, 7877 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 13307, "min": 10, "max": 25 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 20, "max": 40, "weight": 100 }, //Blood money
+          { "id": 13239, "min": 1, "max": 1, "weight": 1 } //Primordial boots
+        ]
+      },
+     {
+        "name": "Empty",
+        "weight": 1,
+        "items": [
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ids": [ 499 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 }, //Ashes
+      { "id": 13307, "min": 50, "max": 100 } //Blood money
+    ],
+    "tables": [
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 13307, "min": 20, "max": 50, "weight": 4 }, //Blood money
+          { "id": 11937, "min": 5, "max": 10, "weight": 4 }, //Dark crab
+          { "id": 10926, "min": 2, "max": 10, "weight": 4 }, //Sanfew serum(4)
+          { "id": 5953, "min": 2, "max": 10, "weight": 4 }, //Antidote++(4) (noted)
+          { "id": 12696, "min": 2, "max": 10, "weight": 4 }, //Super combat potion(4) (noted)
+          { "id": 11998, "min": 1, "max": 1, "weight": 1 }, //Smoke battlestaff
+          { "id": 12002, "min": 1, "max": 1, "weight": 1 }, //Occult necklace
+          { "id": 3140, "min": 1, "max": 1, "weight": 1 } //Dragon chainbody
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 4,
+        "items": []}
+    ]
+  }
+]

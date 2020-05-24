@@ -1,0 +1,16 @@
+{
+  "ids": [ 2827 ],
+  "tables": [
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        { "id": 530, "min": 1, "max": 1, "weight": 1 }, //Bat bones
+        #WikiNote: Only dropped during Rag and Bone Man II.
+        //{ "id": 7833, "min": 1, "max": 1, "weight": 1 }, //Bat wing
+        #WikiNote: Only dropped in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 } //Looting bag
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fishing Guild Shop",
+  "currency": "COINS",
+  "npcs": [
+    { "id": 1299, "option": "trade" }
+  ],
+  "items": [
+    {"id": 313},   // Fishing bait
+	  {"id": 314}   // Feathers
+  ]
+}

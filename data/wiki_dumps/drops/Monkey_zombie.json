@@ -1,0 +1,17 @@
+{
+  "ids": [ 5283, 5281, 5282 ],
+  "tables": [
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only dropped by the level 82 monkeys
+        #Unknown Item: "Monkey bones (small zombie)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 }, //Monkey bones (small zombie)
+        #WikiNote: Only dropped by the level 129 monkeys
+        #Unknown Item: "Monkey bones (big zombie)"
+        //{ "id": -1, "min": 1, "max": 1, "weight": 1 } //Monkey bones (big zombie)
+      ]
+    }
+  ]
+}

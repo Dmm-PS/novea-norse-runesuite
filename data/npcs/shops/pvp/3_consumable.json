@@ -1,0 +1,40 @@
+{
+  "name": "Blood Money Consumable Shop",
+  "currency": "BLOOD_MONEY",
+  "ironman": false,
+  "npcs": [
+    { "id": 1199, "option": "consumable" }
+  ],
+  "items": [
+    { "id": 2436, "price": 0 }, //Super attack(4)
+    { "id": 2440, "price": 0 }, //Super strength(4)
+    { "id": 2442, "price": 0 }, //Super defence(4)
+    { "id": 12695, "price": 30 }, //Super combat potion(4)
+    { "id": 2444, "price": 0 }, //Ranging potion(4)
+    { "id": 3040, "price": 0 }, //Magic potion(4)
+    { "id": 2434, "price": 0 }, //Prayer potion(4)
+    { "id": 3024, "price": 0 }, //Super restore(4)
+    { "id": 6685, "price": 0 }, //Saradomin brew(4)
+    { "id": 7510, "price": 0 }, //Dwarven rock cake
+    { "id": 113, "price": 0 }, //Strength potion(4)
+    { "id": 2446, "price": 0 }, //Antipoison(4)
+    { "id": 2448, "price": 0 }, //Superantipoison(4)
+    { "id": 2452, "price": 0 }, //Antifire potion(4)
+    { "id": 11951, "price": 0 }, //Extended antifire (4)
+    { "id": 12905, "price": 25 }, //Anti-venom(4)
+    { "id": 12913, "price": 25 }, //Anti-venom+(4)
+    { "id": 10925, "price": 0 }, //Sanfew serum(4)
+    { "id": 12625, "price": 20 }, //Stamina potion(4)
+    { "id": 4417, "price": 0 }, //Guthix rest(4)
+    { "id": 333, "price": 0 }, //Trout
+    { "id": 379, "price": 0 }, //Lobster
+    { "id": 373, "price": 0 }, //Swordfish
+    { "id": 7946, "price": 0 }, //Monkfish
+    { "id": 385, "price": 0 }, //Shark
+    { "id": 11936, "price": 25 }, //Dark crab
+    { "id": 13441, "price": 50 }, //Anglerfish
+    { "id": 3144, "price": 0 }, //Cooked karambwan
+    { "id": 2297, "price": 0 }, //Anchovy pizza
+    { "id": 2301, "price": 0 } //Pineapple pizza
+  ]
+}

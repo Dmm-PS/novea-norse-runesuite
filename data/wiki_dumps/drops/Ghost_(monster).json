@@ -1,0 +1,13 @@
+{
+  "ids": [ 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 3975, 3976, 3977, 3978, 3979, 6815, 6816, 6817, 6818, 6819, 6820, 6821, 6822, 7263, 7264, 5370, 2527, 2528, 2529, 2530 ],
+  "tables": [
+    {
+      "name": "Drops",
+      "weight": 1,
+      "items": [
+        #WikiNote: Only dropped by those found in the Wilderness.
+        //{ "id": 11941, "min": 1, "max": 1, "weight": 1 } //Looting bag
+      ]
+    }
+  ]
+}

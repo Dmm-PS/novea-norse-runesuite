@@ -1,0 +1,45 @@
+{
+  "name": "Voting Rewards",
+  "currency": "VOTE_TICKETS",
+  "ironman": true,
+  "npcs": [
+    { "id": 1815, "option": "trade" }
+  ],
+  "items": [
+    { "id": 13215, "price": 3 },  //Bloody Token
+    { "id": 6199, "price": 60 },  //Mystery Box
+    { "id": 290, "price": 100 },  //Super Mystery Box
+    { "id": 6829, "price": 6 },  //Voting Mystery Box
+    { "id": 6831, "price": 600 },  //3rd Age Mystery Box
+    { "id": 22330, "price": 400 },  //PvP Armour Mystery Box
+    { "id": 6828, "price": 600 },  //Pet Mystery Box
+    { "id": 11862, "price": 1500 },  //Black Party Hat
+    { "id": 13343, "price": 1000 },  //Black Santa Hat
+    { "id": 11847, "price": 800 },  //Black h'ween mask
+    { "id": 299, "price": 1 },  //Mithril Seeds
+    { "id": 962, "price": 1000 },  //Christmas Cracker
+    { "id": 6570, "price": 20 },  //Fire Cape
+    { "id": 21295, "price": 1000 },  //Infernal Cape
+    { "id": 13652, "price": 300 },  //Dragon claws
+    { "id": 12397, "price": 400 },  //Royal Crown
+    { "id": 12791, "price": 100 },  //Rune Pouch
+    { "id": 22326, "price": 350 },  //Justiciar Faceguard
+    { "id": 22327, "price": 500 },  //Justiciar Chestguard
+    { "id": 22328, "price": 500 },  //Justiciar Legguards
+    { "id": 20997, "price": 600 },  //Twisted Bow
+    { "id": 22324, "price": 500 },  //Ghrazi Rapier
+    { "id": 21003, "price": 600 },  //Elder Maul
+    { "id": 21034, "price": 800 },  //Dexterous Scroll
+    { "id": 21079, "price": 400 },  //Arcane Scroll
+    { "id": 1505, "price": 50 },  //Scroll of redirection
+    { "id": 19556, "price": 1000 },  //Monkey Backpack
+    { "id": 21018, "price": 400 },  //Ancestral Hat
+    { "id": 21021, "price": 400 },  //Ancestral Robe Top
+    { "id": 21024, "price": 400 },  //Ancestral Robe Bottom
+    { "id": 20017, "price": 100 },  //Ring Of Coins
+    { "id": 21859, "price": 600 },  //Wise Old Man's Santa Hat
+    { "id": 4084, "price": 500 },  //Sled
+    { "id": 1419, "price": 500 },  //Scythe
+    { "id": 4565, "price": 600 }  //Easter Basket
+]
+}

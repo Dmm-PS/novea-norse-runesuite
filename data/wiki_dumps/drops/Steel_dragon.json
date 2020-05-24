@@ -1,0 +1,62 @@
+{
+  "ids": [ 139, 274, 275, 7255 ],
+  "guaranteed": [
+    { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+    { "id": 2353, "min": 5, "max": 5 } //Steel bar
+  ],
+  "tables": [
+    {
+      "name": "Weapons/Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1432, "min": 1, "max": 1, "weight": 1 }, //Rune mace
+        { "id": 1199, "min": 1, "max": 1, "weight": 1 }, //Adamant kiteshield
+        { "id": 868, "min": 5, "max": 7, "weight": 1 }, //Rune knife
+        { "id": 1359, "min": 1, "max": 1, "weight": 1 }, //Rune axe
+        { "id": 1163, "min": 1, "max": 1, "weight": 1 }, //Rune full helm
+        #WikiNote: The drop rate is 1/512 for a specific legging, or 1/256 for any leggings.
+        //{ "id": 4585, "min": 1, "max": 1, "weight": 1 }, //Dragon plateskirt
+        #WikiNote: The drop rate is 1/512 for a specific legging, or 1/256 for any leggings.
+        //{ "id": 4087, "min": 1, "max": 1, "weight": 1 } //Dragon platelegs
+      ]
+    },
+    {
+      "name": "Runes/Ammunition",
+      "weight": 1,
+      "items": [
+        { "id": 565, "min": 15, "max": 15, "weight": 1 }, //Blood rune
+        { "id": 565, "min": 20, "max": 20, "weight": 1 }, //Blood rune
+        { "id": 830, "min": 2, "max": 7, "weight": 1 }, //Rune javelin
+        { "id": 19582, "min": 12, "max": 12, "weight": 1 }, //Dragon javelin heads
+        { "id": 9144, "min": 2, "max": 12, "weight": 1 }, //Runite bolts
+        { "id": 817, "min": 9, "max": 12, "weight": 1 }, //Rune dart(p)
+        { "id": 566, "min": 5, "max": 5, "weight": 1 } //Soul rune
+      ]
+    },
+    {
+      "name": "Other",
+      "weight": 1,
+      "items": [
+        { "id": 9431, "min": 1, "max": 1, "weight": 1 }, //Runite limbs
+        { "id": 145, "min": 1, "max": 1, "weight": 1 }, //Super attack(3)
+        { "id": 995, "min": 470, "max": 470, "weight": 1 }, //Coins
+        { "id": 995, "min": 650, "max": 650, "weight": 1 }, //Coins
+        { "id": 2011, "min": 1, "max": 2, "weight": 1 }, //Curry
+        { "id": 2363, "min": 1, "max": 1, "weight": 1 }, //Runite bar
+        { "id": 165, "min": 1, "max": 1, "weight": 1 }, //Super defence(2)
+        { "id": 161, "min": 1, "max": 1, "weight": 1 }, //Super strength(1)
+        { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19677, "min": 1, "max": 1, "weight": 1 }, //Ancient shard
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19679, "min": 1, "max": 1, "weight": 1 }, //Dark totem base
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19681, "min": 1, "max": 1, "weight": 1 }, //Dark totem middle
+        #WikiNote: Only dropped by those found within the Catacombs of Kourend.
+        //{ "id": 19683, "min": 1, "max": 1, "weight": 1 }, //Dark totem top
+        { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+        { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ids": [ 2455 ],
+  "tables": [
+    {
+      "name": "Tokens",
+      "weight": 1,
+      "items": [
+        { "id": 8851, "min": 30, "max": 30, "weight": 1 } //Warrior guild token
+      ]
+    },
+    {
+      "name": "Armour",
+      "weight": 1,
+      "items": [
+        { "id": 1161, "min": 1, "max": 1, "weight": 1 }, //Adamant full helm
+        { "id": 1123, "min": 1, "max": 1, "weight": 1 }, //Adamant platebody
+        { "id": 1073, "min": 1, "max": 1, "weight": 1 } //Adamant platelegs
+      ]
+    }
+  ]
+}
